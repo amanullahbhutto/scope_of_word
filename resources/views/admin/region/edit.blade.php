@@ -1,0 +1,21 @@
+@extends('admin.layouts.app')
+
+@section('title', 'Dashboard')
+
+@section('content')
+<div class="container">
+    <form action="{{ route('regions.update', $region->id) }}" method="POST">
+        @csrf
+        @method('PUT')
+        <div class="mb-3">
+            <label for="region_name" class="form-label">Region Name</label>
+            <input type="text" class="form-control" id="region_name" name="region_name" value="{{ $region->region_name }}" required>
+        </div>
+        <div class="mb-3">
+            <label for="province_id" class="form-label">Province ID</label>
+            <input type="number" class="form-control" id="province_id" name="province_id" value="{{ $region->province_id }}">
+        </div>
+        <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+</div>
+@endsection

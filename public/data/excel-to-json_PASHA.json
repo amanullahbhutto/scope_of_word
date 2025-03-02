@@ -1,0 +1,4780 @@
+{
+  "Sheet1": [
+    {
+      "Company Name": "Sidat Hyder Morshed Associates (Pvt.) Ltd.",
+      "Address Line 1": "6th Floor, Room 601, Beaumont Plaza Beaumont Road\r\nKarachi 75530\r\nPakistan",
+      "Address Line 2": "3rd Floor, Mushtaq Mansion,\r\nFazal-ul-Haq Road,\r\nBlue Area,\r\nIslamabad 44000,\r\nPakistan.",
+      "City": "Karachi/Lahore/Islamabad/Dubia",
+      "Region": "South",
+      "Phone": "021-3569 3521-30, 0333-2329575"
+    },
+    {
+      "Company Name": "Mazars Consulting Pakistan (previously Bearing Point)",
+      "Address Line 1": "10th Floor, NIC Building",
+      "Address Line 2": "Abbasi Shaheed Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 563-5401-7; 111-000-221"
+    },
+    {
+      "Company Name": "Softronic Systems (Pvt.) Ltd.",
+      "Address Line 1": "135, K.M.C.H.S, Usman Issa Bhai Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 34302331-5"
+    },
+    {
+      "Company Name": "Noble Software Services Limited",
+      "Address Line 1": "6th, Floor, AL- Manzoor Building, Dr. Ziauddin Ahmed Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5759054"
+    },
+    {
+      "Company Name": "Software Designers (Private) Limited",
+      "Address Line 1": "83 Maqboolabad, Street # 8, Opp. Sharafabad School",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4932281"
+    },
+    {
+      "Company Name": "TenX (Pvt.) Ltd.",
+      "Address Line 1": "503 Japan Plaza",
+      "Address Line 2": "M. A. Jinnah Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 7736601"
+    },
+    {
+      "Company Name": "VectraCom (Pvt.) Ltd.",
+      "Address Line 1": "Mazzanine Floor 1B, Faiyaz Centre",
+      "Address Line 2": "3-A SMCHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "92 21 454 3301"
+    },
+    {
+      "Company Name": "Software Products Corporation",
+      "Address Line 1": "416-417, Haji Adam Chambes",
+      "Address Line 2": "Altaf Hussain Road, New Challi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 2418400"
+    },
+    {
+      "Company Name": "Shahnawaz (Pvt.) Ltd.",
+      "Address Line 1": "19, West Wharf",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 2313934"
+    },
+    {
+      "Company Name": "DataNet",
+      "Address Line 1": "III-C, Jami Commerical St. #11",
+      "Address Line 2": "Phase VII, D.H.A",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35388425"
+    },
+    {
+      "Company Name": "Enabling Technologies.",
+      "Address Line 1": "172/P, Najeeb Corner, 4th Floor,",
+      "Address Line 2": "Block-2, P.E.C.H.S",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92) 300-8220180"
+    },
+    {
+      "Company Name": "Folio3 (Pvt.) Ltd.",
+      "Address Line 1": "163, Bangalore Town,",
+      "Address Line 2": "Main Shahrah-e-Faisal,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4544740"
+    },
+    {
+      "Company Name": "Apvision (Private) Limited",
+      "Address Line 1": "D-5, Block 7,",
+      "Address Line 2": "Gulshan - e- Iqbal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-8583408"
+    },
+    {
+      "Company Name": "PIBAS Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "22-G/1, Block-6",
+      "Address Line 2": "P.E.C.H.S.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-3455-7054, 92-335-1351755"
+    },
+    {
+      "Company Name": "CATCOS Inc.",
+      "Address Line 1": "205, The Forum",
+      "Address Line 2": "22-A, Block 7/8, Tipu Sultan Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5361215"
+    },
+    {
+      "Company Name": "Engineering Consultants International",
+      "Address Line 1": "29 Block 7/8, D.C.H.S",
+      "Address Line 2": "(Darul-Aman Co-operative Housing Society)",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4542290-4"
+    },
+    {
+      "Company Name": "KalSoft Limited",
+      "Address Line 1": "\"SUITE NO 307, BUSINESS ARCADE, MAIN\r\nSHAHRAH-E-FAISAL, Karachi\"",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35849432"
+    },
+    {
+      "Company Name": "Progressive Systems (Pvt.) Limited",
+      "Address Line 1": "43-1/B, Razi Road, Block 6",
+      "Address Line 2": "P.E.C.H.S.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4311534-7"
+    },
+    {
+      "Company Name": "Folio3 (Pvt.) Ltd.",
+      "City": "Karachi",
+      "Region": "South"
+    },
+    {
+      "Company Name": "StreetWare Systems (Pvt.) Ltd.",
+      "Address Line 1": "511, Business Avenue",
+      "Address Line 2": "Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 431 4184-5"
+    },
+    {
+      "Company Name": "Premier Software (Pvt.) Ltd.",
+      "Address Line 1": "2nd Floor, Business Plaza",
+      "Address Line 2": "Mumtaz Hassan Road, Off. I.I. Chundrigar Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 2400280 / 2417933"
+    },
+    {
+      "Company Name": "TMT Ventures Limited",
+      "Address Line 1": "610, Continental Trade Centre",
+      "Address Line 2": "Block-8, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5873637/ 5863015, 5303126-8"
+    },
+    {
+      "Company Name": "Millennium Software (Pvt.) Ltd.",
+      "Address Line 1": "6th Floor, Shahnaz Arcade, Shaheed-e-Millat Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 414.0632-34"
+    },
+    {
+      "Company Name": "Kontact Remote Services",
+      "Address Line 1": "4th Floor, Prime Point Bldg.",
+      "Address Line 2": "6-C, Kh.-e-Ittehad, Phase 7. D.H.A",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5802581-83"
+    },
+    {
+      "Company Name": "Millennium Systems & Consultants (Pvt.) Ltd.",
+      "Address Line 1": "Building 72/F-1, 9th Jami Commercial Street",
+      "Address Line 2": "Phase VII, DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5891305"
+    },
+    {
+      "Company Name": "Arwen Tech (Pvt.) Ltd.",
+      "Address Line 1": "48 F /B, Block 6, P.E.C.H.S, Shahrah-e-Faisal",
+      "Address Line 2": "P.E.C.H.S, Shahra-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4558322; 111 37 37 37"
+    },
+    {
+      "Company Name": "Sysnet Pakistan Pvt. Ltd.",
+      "Address Line 1": "79-B, Tipu Sultan Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4533366-8; 4326541-43, 111797638"
+    },
+    {
+      "Company Name": "ITIM Systems (Pvt.) Ltd.",
+      "Address Line 1": "Suite # 501-504",
+      "Address Line 2": "5th Floor, Progressive Center",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111-200-123"
+    },
+    {
+      "Company Name": "Emmaculate",
+      "Address Line 1": "507, Progressive Center",
+      "Address Line 2": "Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4559612-13"
+    },
+    {
+      "Company Name": "ABM Info Tech (Pvt.) Ltd.",
+      "Address Line 1": "ABM INFO TECH (Private) Limited, Mezzanine Floor 14-16, Beaumont Plaza, Beaumont Road, Civil Lines, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5654981-5"
+    },
+    {
+      "Company Name": "Algorithm Consulting (Pvt.) Limited",
+      "Address Line 1": "Plot # 254 - 255, Deh-Dih, Ibrahim Hyderi,",
+      "Address Line 2": "Korangi Creek,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 5090954-6"
+    },
+    {
+      "Company Name": "National Univeristy of Computing & Emerging Sciences",
+      "Address Line 1": "Shah Latif Town",
+      "Address Line 2": "On National Highway",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111 128 128"
+    },
+    {
+      "Company Name": "Ora-Tech Systems (Pvt.) Ltd.",
+      "Address Line 1": "Four Square Plaza, 4th Floor, Building No. 21-A, H Farooqi Road Off Tariq road, PECHS Block 2 Karachi. Tel: 021 34535933",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111 672 253, Tel: 34535933"
+    },
+    {
+      "Company Name": "Plexus (Pvt.) Ltd.",
+      "Address Line 1": "Office 413-415, 4th floor, Sualeha Chambers, Plot No. B-9/C",
+      "Address Line 2": "Estate Avenue, Site Area",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 2555212-3"
+    },
+    {
+      "Company Name": "Xyber Moughal Pvt. Ltd.",
+      "Address Line 1": "1st Zamzama Commercial Lane",
+      "Address Line 2": "D.H.A, Phase V",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5835374-5"
+    },
+    {
+      "Company Name": "System Innovations (Pvt.) Ltd. - Si3",
+      "Address Line 1": "4th Floor, Executive Tower 1",
+      "Address Line 2": "Dolmen City Marine Drive, Block 4, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111 111 743; 247.5107"
+    },
+    {
+      "Company Name": "Innovative (Pvt.) Ltd.",
+      "Address Line 1": "F-1, FL-19, Block 5, Clifton- 75600 Karachi",
+      "Address Line 2": "Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111 000 911"
+    },
+    {
+      "Company Name": "Kolachi Advanced Technologies",
+      "Address Line 1": "16-C, Lane 2, Rahat Commerical Area",
+      "Address Line 2": "Phase VI, D.H.A",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5844378"
+    },
+    {
+      "Company Name": "Pix Alive",
+      "Address Line 1": "1/1 B Main Commercial Area",
+      "Address Line 2": "Muhammad Ali Housing Society",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4533303"
+    },
+    {
+      "Company Name": "Avanza Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Bungalow No. 40-J-B Block-6 PECHS, Karachi-Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5675240-42"
+    },
+    {
+      "Company Name": "Scan Infotech (Pvt.) Ltd.",
+      "Address Line 1": "12-N, Gurumangat Rd, Gulberg-II, Industrial Area",
+      "Address Line 2": "I.I. Chundrigar Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 2213145-7"
+    },
+    {
+      "Company Name": "ThreeSixtyDegreez Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "104-105, Business Arcade",
+      "Address Line 2": "27/A, Block-6, P.E.C.H.S, Shara-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111 551 551"
+    },
+    {
+      "Company Name": "Goldsoft",
+      "Address Line 1": "603, Saima Gardens, 167-H, Block-3",
+      "Address Line 2": "P.E.C.H.S.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92300) 8204503"
+    },
+    {
+      "Company Name": "MIXIT Technologies (Pvt.) Ltd.",
+      "Address Line 1": "172/P, najeeb Corner,",
+      "Address Line 2": "4th Floor, Block2, P.E.C.H.S",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(021) 34322745"
+    },
+    {
+      "Company Name": "Bite IT Consultants",
+      "Address Line 1": "Al-Asar Center 402",
+      "Address Line 2": "Gulshan-e-Iqbal, Block 13-B",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221)5416558"
+    },
+    {
+      "Company Name": "THK Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Banglow # E-152 Block B, Gulshan-e-Jamal,",
+      "Address Line 2": "Off-Rashid Minhas Road,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92-21) 5611897-8"
+    },
+    {
+      "Company Name": "Sunsoft (Pvt.) Ltd.",
+      "Address Line 1": "1, Jinnah Co-operative Housing Society",
+      "Address Line 2": "Shaheed-e-Millat Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111 925 925"
+    },
+    {
+      "Company Name": "ECASoft",
+      "Address Line 1": "194, Block-7/8, Opposite Hill Park",
+      "Address Line 2": "K.M.C.H.S.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4387936"
+    },
+    {
+      "Company Name": "Fedglobe (Pvt.) Ltd.",
+      "Address Line 1": "78-C, 13th Commercial St.",
+      "Address Line 2": "D.H.A, Phase-II Extension",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111-511-511"
+    },
+    {
+      "Company Name": "2B Technologies",
+      "Address Line 1": "Suite 1310 & 1311, 13th Floor, National IT Park",
+      "Address Line 2": "Caesar's Towers, Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111-111-228"
+    },
+    {
+      "Company Name": "Software Technology Innovator",
+      "Address Line 1": "Sir Syed University of Engineering & Tech.",
+      "Address Line 2": "University Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111 994 994"
+    },
+    {
+      "Company Name": "Wavetec (Pvt.) Ltd.",
+      "Address Line 1": "245-2-N, Block-6",
+      "Address Line 2": "PECHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111 111 133"
+    },
+    {
+      "Company Name": "ZRG International Pvt. Ltd.",
+      "Address Line 1": "Suite # 101, Business Avenue, 26-A/6, P.E.C.H.S., Shahrah-e-Faisal",
+      "Address Line 2": "P.E.C.H.S",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92-21) 111974111, 4313220"
+    },
+    {
+      "Company Name": "TPS Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "TPS Tower, A_43, Block 7/8",
+      "Address Line 2": "K.C.H.S., Shabbirabad",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": -1028
+    },
+    {
+      "Company Name": "Beyond Information Tecnology Solutions",
+      "Address Line 1": "5-6/C, Khayaban-Ittehad,",
+      "Address Line 2": "Phase 7, D.H.A",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5805531-32"
+    },
+    {
+      "Company Name": "Sofcom (Pvt.) Ltd.",
+      "Address Line 1": "Sofcom House, ST-9",
+      "Address Line 2": "Block 5, Gulsha-e-Iqbal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4966991-92"
+    },
+    {
+      "Company Name": "Efrotech (Pvt.) Ltd.",
+      "Address Line 1": "12-C, Block 6, P.E.C.H.S, Shahrah-e-Faisal,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92-21) 34556101-03, 32043020-21"
+    },
+    {
+      "Company Name": "Software Channel (Pvt.) Ltd.",
+      "Address Line 1": "201, Al-Rehman Center, Plot A-31",
+      "Address Line 2": "Block 7/8, K.U.C.H.S, Off. Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 34315226-7"
+    },
+    {
+      "Company Name": "SiSTech Systems",
+      "Address Line 1": "3, Seagull Apartment, Behind Clifton Centre",
+      "Address Line 2": "Block 5, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5372367-9-70-1"
+    },
+    {
+      "Company Name": "Clarusoft (Pvt.) Ltd.",
+      "Address Line 1": "National IT Park, 11th Floor",
+      "Address Line 2": "ST-10, Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 278 8880-4"
+    },
+    {
+      "Company Name": "GfK Etilize (Pvt.) Ltd.",
+      "Address Line 1": "26-E, P.E.C.H.S,",
+      "Address Line 2": "Block No. 6",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221)4550680-82/0333 2330610"
+    },
+    {
+      "Company Name": "Barrett Hodgson ITSolutions Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "F/423",
+      "Address Line 2": "S.I.T.E.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 257 0651-7, 256 8810-20"
+    },
+    {
+      "Company Name": "NC Inc.",
+      "Address Line 1": "Plot # 13-C, 3rd & 4th Floor, Khayaban-e-Ittehad,\r\n\r\nPhase II Ext. DHA, Karachi-75500, Pakistan",
+      "Address Line 2": "Muhammad Ali Housing Society",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 454 3315-7"
+    },
+    {
+      "Company Name": "ISR Software Services (Pvt.) Ltd.",
+      "Address Line 1": "19 First Floor, Old Ralli Building",
+      "Address Line 2": "Talpur Road, Off I.I. Chundrigar Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 2444334/2418280"
+    },
+    {
+      "Company Name": "Softech Microsystems",
+      "Address Line 1": "9-E, Block 6",
+      "Address Line 2": "P.E.C.H.S.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 437.1281-90-6; 111-111-729"
+    },
+    {
+      "Company Name": "SuperNova Solutions",
+      "Address Line 1": "Office # 206, Park Avenue,",
+      "Address Line 2": "Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) (9221) 4387249 / 4533679, 4328127"
+    },
+    {
+      "Company Name": "National Computers (Pvt.) Ltd.",
+      "Address Line 1": "C-4, Bath Island, Street No.2",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5830311/5865162"
+    },
+    {
+      "Company Name": "Computa",
+      "Address Line 1": "1st Floor, Gulshan Palace, Block 13-C",
+      "Address Line 2": "University Road, Gulshan-e-Iqbal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92-21) 4961018"
+    },
+    {
+      "Company Name": "Global Education and Marketing Software",
+      "Address Line 1": "Suite 807, Park Avenue",
+      "Address Line 2": "P.E.C.H.S, Block 6, Shahra-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4557915; 4557940"
+    },
+    {
+      "Company Name": "Alchemy Technologies (Pvt.) Ltd.",
+      "Address Line 1": "166 Block 7/8, KMCHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92-21) 4556431; 4544745"
+    },
+    {
+      "Company Name": "eDev Technologies",
+      "Address Line 1": "502-3, Progressive Square, 11-A, Block-6",
+      "Address Line 2": "P.E.C.H.S, Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4314571-73"
+    },
+    {
+      "Company Name": "ePlanet Communications (Pvt.) Ltd.",
+      "Address Line 1": "12th Floor, Caesar's Tower",
+      "Address Line 2": "National IT Park Building,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92-21) 2791949, 2791951-54"
+    },
+    {
+      "Company Name": "HUITS",
+      "Address Line 1": "211-212, 2nd Floor, Anum Estate, Plot No. 49, Block 7/8",
+      "Address Line 2": "Sharah-e-Faisal, D.C.H.S",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4390424,4383986-7,4384965"
+    },
+    {
+      "Company Name": "Nexsource Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "Office No. 509, 5th Floor, Business Avenue",
+      "Address Line 2": "Shahrah-e-Faisal, PECHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4311701, 4316296, 4324422"
+    },
+    {
+      "Company Name": "Softech Worldwide",
+      "Address Line 1": "Suit # 1017, 10th Floor, Caesars Towers (National IT Park), Main Shahrah e Faisal",
+      "Address Line 2": "Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-32803059"
+    },
+    {
+      "Company Name": "Outreach Digital Pvt. Ltd.",
+      "Address Line 1": "Suite# 1513, National IT Park",
+      "Address Line 2": "Shahrah e Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 279.0039, 278.8482"
+    },
+    {
+      "Company Name": "Aga Khan University Hospital",
+      "Address Line 1": "Stadium Road",
+      "Address Line 2": "P.O Box 3500",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "92-21-493-0051"
+    },
+    {
+      "Company Name": "Secure Bytes",
+      "Address Line 1": "214-215 Park Avenue Building, 24-A, Block 6",
+      "Address Line 2": "PECHS, Shahra-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4310169"
+    },
+    {
+      "Company Name": "CC Technology",
+      "Address Line 1": "D-68/1, Block 2",
+      "Address Line 2": "Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111-810-810"
+    },
+    {
+      "Company Name": "Oyster Technologies (Pvt.) Ltd.",
+      "Address Line 1": "Plot # 8, Sector#24",
+      "Address Line 2": "Korangi Industrial Area",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 506.3023"
+    },
+    {
+      "Company Name": "X-net Solutions",
+      "Address Line 1": "#4, Second Floor, C-117",
+      "Address Line 2": "Jami Commercial Street 12, DHA Phase VII",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92-21) 531.0961-62, 824.6720"
+    },
+    {
+      "Company Name": "Advanced Financial Application Pvt. Ltd.",
+      "Address Line 1": "16-C, Lane 2, Rahat Commercial Area",
+      "Address Line 2": "Phase 6, D.H.A",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5843259; 584-4378"
+    },
+    {
+      "Company Name": "National Data Consultant (Pvt.) Ltd.",
+      "Address Line 1": "2C Nishat Commercial, DHA Phase 6, Lane 12, Street 21 Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92-21) 5874704/5874805/0345 9442407"
+    },
+    {
+      "Company Name": "Computer Research (Pvt.) Ltd.",
+      "Address Line 1": "1218, 12th Floor, Caesar's Tower",
+      "Address Line 2": "National IT Park, Sharae Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 2790721-3; 4310506-8"
+    },
+    {
+      "Company Name": "Sharp Image",
+      "Address Line 1": "4th Floor, Westland Trade Center",
+      "Address Line 2": "Shaheed-e-Millat Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92-21) 4313741"
+    },
+    {
+      "Company Name": "PrisLogix",
+      "Address Line 1": "903/904, JASON TRADECENTER, 39 A, PECH SOCIETY BLOCK 6,",
+      "Address Line 2": "Shahra-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34546970-80, 34320111-115"
+    },
+    {
+      "Company Name": "Genesis Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Plot No. F-1, Sector 6-A, Mehran Town",
+      "Address Line 2": "Korangi, Industrial Area",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5114271-72"
+    },
+    {
+      "Company Name": "Spinnaker Networks",
+      "Address Line 1": "1303-4, National IT Park",
+      "Address Line 2": "Caesar Tower, Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "92 (021) 2789315/20"
+    },
+    {
+      "Company Name": "Connect 2Web (Pvt.) Ltd.",
+      "Address Line 1": "C-194, KDA Scheme # 1-A",
+      "Address Line 2": "Near Karsaz Road,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4386185-6"
+    },
+    {
+      "Company Name": "Quntech (Pvt.) Limited",
+      "Address Line 1": "84-A, SMCHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4397883-4"
+    },
+    {
+      "Company Name": "Post Amazers (Pvt.) Ltd.",
+      "Address Line 1": "614, Continental Trade Center",
+      "Address Line 2": "Block 8, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92-21) 5822605 / 5867069/ 5871074"
+    },
+    {
+      "Company Name": "Alt Source Communications",
+      "Address Line 1": "40-C Block 6",
+      "Address Line 2": "P.E.C.H.S",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "4541960-7"
+    },
+    {
+      "Company Name": "Infinilogic",
+      "Address Line 1": "Caesar's Tower, National IT Park,",
+      "Address Line 2": "Sharah-e-Faisal, ST-10",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 2781594"
+    },
+    {
+      "Company Name": "MicroMiles",
+      "Address Line 1": "9-C, 5th Sunset Lane",
+      "Address Line 2": "Phase II ext DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5886112"
+    },
+    {
+      "Company Name": "Server4Sale",
+      "Address Line 1": "1508-1511 Caesar's Tower, Shahra-e-Faisal, Karachi",
+      "Address Line 2": "Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021-32789720/0333 2312410"
+    },
+    {
+      "Company Name": "Sapphire Consulting Services (Pvt.) Ltd.",
+      "Address Line 1": "C4-KDA Scheme 01, Off Karsaz Road, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34300581-84"
+    },
+    {
+      "Company Name": "PixSense (Pvt.) Ltd.",
+      "Address Line 1": "172/P, 3rd Floor, Tariq Road",
+      "Address Line 2": "Block 2, PECHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "432.2721-4"
+    },
+    {
+      "Company Name": "Emergen Consulting",
+      "Address Line 1": "M-2, Building 4C,\r\nRahat Lane No 3, Rahat Commercial,",
+      "Address Line 2": "DHA Phase 6.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(021.529.0381"
+    },
+    {
+      "Company Name": "CATALYST IT Solutions (Pvt) Ltd",
+      "Address Line 1": "403, 4th Floor, Al-Rehman Center,",
+      "Address Line 2": "Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-4316242,4316575"
+    },
+    {
+      "Company Name": "Access Group (E-Access Pvt. Ltd.)",
+      "Address Line 1": "6th Floor, Bahria Complex IV, Gizri Road, Clifton Karachi.",
+      "Address Line 2": "Talpur Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92 21) 111-111-974"
+    },
+    {
+      "Company Name": "Crescent Solution",
+      "Address Line 1": "Suite No. 408, Business Avenue, 26-A",
+      "Address Line 2": "Block-6, P.E.C.H.S.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4532991"
+    },
+    {
+      "Company Name": "AMZ Access Pvt Ltd.",
+      "Address Line 1": "19th Floor, Saima Trade Tower-B",
+      "Address Line 2": "I.I. Chundrigar Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 2219761; 111-269-111"
+    },
+    {
+      "Company Name": "Crystal Systems (Pvt.) Ltd.",
+      "Address Line 1": "N.P 9/13, Ghulam Shah Street",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 7524848"
+    },
+    {
+      "Company Name": "Intergraphics C&A (Pvt) Ltd.",
+      "Address Line 1": "514, Anum Estate, Darulaman",
+      "Address Line 2": "C.H Society, Shahra-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4313445-8"
+    },
+    {
+      "Company Name": "EC-Pak (Pvt.) Ltd.",
+      "Address Line 1": "214, The Plaza, Block-9",
+      "Address Line 2": "Clifton, Khayaban-e-Iqbal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(021) 582-2641-42"
+    },
+    {
+      "Company Name": "EDP Services (Pvt) Limited",
+      "Address Line 1": "1502 Ceaser Tower Sharah-e-Faisal, Karachi | 3477 Glen Erin Dr. #55, Mississauga ON",
+      "Address Line 2": "Shahra-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 453-8918"
+    },
+    {
+      "Company Name": "Engineering Systems (Pvt.) Ltd.",
+      "Address Line 1": "AL-9, 15th Lane, Khayaban-e-Hilal",
+      "Address Line 2": "Phase VII, Defense Housing Authority",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5849117; 5841821-24; 5841638-39"
+    },
+    {
+      "Company Name": "ePatterns",
+      "Address Line 1": "188-R, Block-2,",
+      "Address Line 2": "PECHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-4531345"
+    },
+    {
+      "Company Name": "Ewadi Associate",
+      "Address Line 1": "20 A/2, Block VI",
+      "Address Line 2": "P.E.C.H.S.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4531310"
+    },
+    {
+      "Company Name": "Eximp Agencies (Pvt.) Ltd.",
+      "Address Line 1": "57/7 Shikar Pur Colony",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4923321"
+    },
+    {
+      "Company Name": "Siemens Pakistan Engineering Co. Ltd.",
+      "Address Line 1": "B-72, East Avenue",
+      "Address Line 2": "S.I.T.E.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221)2592080 2574910-19"
+    },
+    {
+      "Company Name": "Cubexs Weatherly (Pvt) Ltd.",
+      "Address Line 1": "1st Floor, Federation House",
+      "Address Line 2": "Block-5, Shahrah-e-Firdousi, Main Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5877946-9; 111-282-397"
+    },
+    {
+      "Company Name": "Gem Internet Service (Pvt.) Ltd.",
+      "Address Line 1": "310-311, Anum Estate",
+      "Address Line 2": "Shahrah-e-Faisal,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111 436 638"
+    },
+    {
+      "Company Name": "Global Network Solutions",
+      "Address Line 1": "F-63-A, Block-F, P.O.Box-11033",
+      "Address Line 2": "North Nazimabad",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 6627757"
+    },
+    {
+      "Company Name": "Globalsoft (Pvt) Ltd",
+      "Address Line 1": "Suite 905, Progressive Square",
+      "Address Line 2": "Block 6, PECHS, Main Sharae Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4548512-5"
+    },
+    {
+      "Company Name": "Golden Global (Pvt) Ltd. (Goldsoft)",
+      "Address Line 1": "CI-109, Sector 16-B,",
+      "Address Line 2": "North Karachi,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4532277-9"
+    },
+    {
+      "Company Name": "GS IT Solution",
+      "Address Line 1": "815, Progressive Plaza",
+      "Address Line 2": "Civil Lines",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5216097"
+    },
+    {
+      "Company Name": "Hilinks Pak (Pvt). Ltd.",
+      "Address Line 1": "19-C, Sunset Lane 6",
+      "Address Line 2": "Phase II Ext., DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5384867-8"
+    },
+    {
+      "Company Name": "Imagine",
+      "Address Line 1": "Fl. No. 3, 11-C, Commercial Area",
+      "Address Line 2": "Mohammad Ali Society",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4540773"
+    },
+    {
+      "Company Name": "Info Train",
+      "Address Line 1": "405-406 Business Avenue",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4312994-6"
+    },
+    {
+      "Company Name": "School of Business Studies",
+      "Address Line 1": "F-17, Block 8, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5862318-20"
+    },
+    {
+      "Company Name": "Informatik",
+      "Address Line 1": "303, Shahwar Trade Center",
+      "Address Line 2": "Allama Iqbal Road, P.E.C.H.S",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4558461-2"
+    },
+    {
+      "Company Name": "Information Technology Engineering Co.",
+      "Address Line 1": "1313-1314, 13th Floor, National IT Park",
+      "Address Line 2": "Caesar's Tower, ST-10, Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 7790839-40"
+    },
+    {
+      "Company Name": "Infosys Software Consultants",
+      "Address Line 1": "10/A/1 North Circular Avenue",
+      "Address Line 2": "DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4542242-43"
+    },
+    {
+      "Company Name": "Instec Digital Systems",
+      "Address Line 1": "904, Fortune Center, 45-A/6",
+      "Address Line 2": "P.E.C.H.S., Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4547281-82"
+    },
+    {
+      "Company Name": "International Information Technology",
+      "Address Line 1": "2-A, DMHS, Block7/ 8",
+      "Address Line 2": "Tipu Sultan Road,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4520744"
+    },
+    {
+      "Company Name": "International Systems Technology",
+      "Address Line 1": "Fortune Center, Suite#505- 506, Block 6, PECHS",
+      "Address Line 2": "Shara-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4528994-5-6"
+    },
+    {
+      "Company Name": "Intersoft Technology Partners",
+      "Address Line 1": "D-110 B-2, Ground Floor",
+      "Address Line 2": "Tipu Sultan Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-4543902/431-3375"
+    },
+    {
+      "Company Name": "Intersouth I.T. Track",
+      "Address Line 1": "32-E, Block 6",
+      "Address Line 2": "P.E.C.H.S.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4314781-2"
+    },
+    {
+      "Company Name": "Knowledge Base Pvt. Ltd.",
+      "Address Line 1": "B-11 & 12, Humaira Centre, Plot 188/1-A",
+      "Address Line 2": "Block 2, PECHS, Shahrahe Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4385571-3"
+    },
+    {
+      "Company Name": "Logitech (Pvt.) Ltd.",
+      "Address Line 1": "6-B, Saeed Hai Road",
+      "Address Line 2": "M.A.C.H.S",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4546313/4520331"
+    },
+    {
+      "Company Name": "Maison Consulting & Solutions",
+      "Address Line 1": "505, Business Avenue, shahra-e-faisal. PECHS",
+      "Address Line 2": "Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34520370. 03002460865"
+    },
+    {
+      "Company Name": "Mega Mania Interactive (Pvt.) Ltd.",
+      "Address Line 1": "Suite-201, Progressive Centre",
+      "Address Line 2": "Block 6, P.E.C.H.S",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4383038"
+    },
+    {
+      "Company Name": "Neovision (Pvt) Ltd",
+      "Address Line 1": "F/50/2, Block G",
+      "Address Line 2": "Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5838826/27"
+    },
+    {
+      "Company Name": "Net Access Communication Systems",
+      "Address Line 1": "1107, Park Avenue, 24-A, Block-6",
+      "Address Line 2": "P.E.C.H.S., Shara-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111 222 377"
+    },
+    {
+      "Company Name": "Noble Computer Services Pvt. Ltd.",
+      "Address Line 1": "2nd Floor, Sohni Centre, BS 5 & 6",
+      "Address Line 2": "Main Karimabad - Block-4, Federal 'B' Area",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221)6801880-82"
+    },
+    {
+      "Company Name": "OCLITS (Pvt.) Ltd.",
+      "Address Line 1": "245/2-L, Block 6, P.E.C.H.S",
+      "Address Line 2": "P.E.C.H.S.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4546541-2"
+    },
+    {
+      "Company Name": "Pace (Pvt.) Limited",
+      "Address Line 1": "C-86 Block 2",
+      "Address Line 2": "Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5874214-5"
+    },
+    {
+      "Company Name": "Pakfactory/2000",
+      "Address Line 1": "5th Floor, A/35, Block 7&8",
+      "Address Line 2": "Cavish Court, Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4531534"
+    },
+    {
+      "Company Name": "Pakistan Data Management Services",
+      "Address Line 1": "207, Fortune Center, 45-A, Block-6",
+      "Address Line 2": "P.E.C.H.S, Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4559003 / 4316328"
+    },
+    {
+      "Company Name": "Pakistan International Computer Ltd.",
+      "Address Line 1": "SCB Main Building",
+      "Address Line 2": "I.I. Chundrigar Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 2415929-30"
+    },
+    {
+      "Company Name": "Pakistan Software Services Pvt. Ltd.",
+      "Address Line 1": "9th, suite # 905, Progressive Square",
+      "Address Line 2": "Block-6, P.E.C.H.S, Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4548514"
+    },
+    {
+      "Company Name": "Paksoft Marketing",
+      "Address Line 1": "First Floor, Hannan Centre, 55-DACHS, Block 7&8",
+      "Address Line 2": "Main Shahra-e-Faisal,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4543335"
+    },
+    {
+      "Company Name": "Parasoft (Pvt) Ltd",
+      "Address Line 1": "504 Windsong Plale",
+      "Address Line 2": "Block 7 &8 KCHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4354439"
+    },
+    {
+      "Company Name": "Pehel com",
+      "Address Line 1": "B-61/1, K.D.A Scheme No. 1",
+      "Address Line 2": "Habib Ibrahim Rahimatoola Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 431-4664"
+    },
+    {
+      "Company Name": "R.R. Soft (Private) Limited",
+      "Address Line 1": "Shaheen Avenue, A-18",
+      "Address Line 2": "Block 6, P.E.C.H.S.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4539945"
+    },
+    {
+      "Company Name": "RashidSoft (Private) Limited",
+      "Address Line 1": "Shaheen Avenue, A-18",
+      "Address Line 2": "Block 6, P.E.C.H.S",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4539945"
+    },
+    {
+      "Company Name": "Rauf Soft",
+      "Address Line 1": "S/31, S.I.T.E.",
+      "Address Line 2": "Mauripur Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 2574367-9"
+    },
+    {
+      "Company Name": "SAM",
+      "Address Line 1": "531-C, Latifabad No. 8",
+      "City": "Hyderabad",
+      "Region": "South",
+      "Phone": "(0221) 862173"
+    },
+    {
+      "Company Name": "Simcon International (Pvt.) Ltd.",
+      "Address Line 1": "A-79/A, S.I.T.E, Industrial Area, Super Highway",
+      "Address Line 2": "KDA Scheme # 33",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 6881123-5"
+    },
+    {
+      "Company Name": "Sind Soft Solutions (Pvt.) Ltd.",
+      "Address Line 1": "6th floor, Technology park",
+      "Address Line 2": "Shahra-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0300-8249890"
+    },
+    {
+      "Company Name": "Softedge Systems (Pvt.) Ltd.",
+      "Address Line 1": "Suite 621, Clifton Centre",
+      "Address Line 2": "Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5873410"
+    },
+    {
+      "Company Name": "Softeve",
+      "Address Line 1": "401, Bussiness Avenue",
+      "Address Line 2": "Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4315195-7"
+    },
+    {
+      "Company Name": "Softflux Pakistan (Pvt) Ltd.",
+      "Address Line 1": "319-320 Technocity Office Tower",
+      "Address Line 2": "Off I.I Chundrigar Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "92 21 2270705; 2215637-8-9"
+    },
+    {
+      "Company Name": "United Soft",
+      "Address Line 1": "Dawlance Center, 7/4, 9, Civil Line",
+      "Address Line 2": "Dr. Ziauddin Ahmed Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5674645"
+    },
+    {
+      "Company Name": "Softlife (Pvt.) Ltd.",
+      "Address Line 1": "4-E Datari Villas",
+      "Address Line 2": "Bath Island, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5872611-3"
+    },
+    {
+      "Company Name": "Softrack Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "246-E, Block-6",
+      "Address Line 2": "P.E.C.H.S.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4528801 / 4537096"
+    },
+    {
+      "Company Name": "Software Development Services",
+      "Address Line 1": "Room #1306, 13th Floor, National I.T Park",
+      "Address Line 2": "Caesar's Tower, ST-10, Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5684756"
+    },
+    {
+      "Company Name": "Spell Bound Technologies",
+      "Address Line 1": "Suite BM-14 Serena Towers",
+      "Address Line 2": "North Nazimabad",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221)  8212844"
+    },
+    {
+      "Company Name": "Synergy Computers (Pvt.) Ltd.",
+      "Address Line 1": "56-D, K.D.AScheme No. 1",
+      "Address Line 2": "Miran Muhammad Shah Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4540908"
+    },
+    {
+      "Company Name": "Sysman Solutions",
+      "Address Line 1": "214, Madina Mall, 158-Q, Block-2, P.E.C.H.S",
+      "Address Line 2": "Tariq Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4530859"
+    },
+    {
+      "Company Name": "Tec",
+      "Address Line 1": "109, Sidco Centre",
+      "Address Line 2": "Stretchen Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-5688133"
+    },
+    {
+      "Company Name": "Technologics",
+      "Address Line 1": "246-E, Block 6, PECHS",
+      "Address Line 2": "PECHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4528801, 4537058, 4537069"
+    },
+    {
+      "Company Name": "Teledata Pakistan Corporation Pvt. Ltd.",
+      "Address Line 1": "401, Al-Falah Court",
+      "Address Line 2": "I.I. Chundrigar Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 2637511-12"
+    },
+    {
+      "Company Name": "U.S. Publishers (Pvt.) Ltd.",
+      "Address Line 1": "C 17 KDA Scheme No 1",
+      "Address Line 2": "off Karsaz Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111-222-444"
+    },
+    {
+      "Company Name": "Ubitec (Pvt) Ltd",
+      "Address Line 1": "20-A/1, Block 6, PECHS",
+      "Address Line 2": "Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4380270-3"
+    },
+    {
+      "Company Name": "Uffaq Technologies (Private) Limited",
+      "Address Line 1": "302 Clifton Center,",
+      "Address Line 2": "Clifton Block 5,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 5863561-62"
+    },
+    {
+      "Company Name": "Universal Computing Services",
+      "Address Line 1": "268/2, International Center",
+      "Address Line 2": "Basement Floor, Abdullah Haroon Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5683890"
+    },
+    {
+      "Company Name": "Super Technologies (Pvt.) Ltd.",
+      "Address Line 1": "93, Qadri House, J.C.H.S",
+      "Address Line 2": "Tipu Sultan Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92-300) 2029425, 021-4534476"
+    },
+    {
+      "Company Name": "Integrated Technology Partners (Pvt) Ltd.",
+      "Address Line 1": "Room 302, 2nd Floor, Tariq Center",
+      "Address Line 2": "Main Tariq Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4327461"
+    },
+    {
+      "Company Name": "Creative Chaos (Pvt) Limited",
+      "Address Line 1": "2nd Floor, Al Karam Center",
+      "Address Line 2": "Plot BC-1, Block 7, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+ 92-21-111.111.426"
+    },
+    {
+      "Company Name": "Zaffron Technologies",
+      "Address Line 1": "49 C, Badar Commercial Area",
+      "Address Line 2": "Street 7A, D.H.A, Phase V Ext.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5840936-39"
+    },
+    {
+      "Company Name": "ZAS Systems (Pvt) Ltd",
+      "Address Line 1": "A/35, Building 78, Cavish Court",
+      "Address Line 2": "DHA Phase V (Ext)",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5840806"
+    },
+    {
+      "Company Name": "ZenSoft",
+      "Address Line 1": "Modern Motors House, 3rd Floor,",
+      "Address Line 2": "Beaumont Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5683566-67 / 5688348; 111 000 009"
+    },
+    {
+      "Company Name": "AA Intelligent Systems",
+      "Address Line 1": "245-2-Y, Block 6",
+      "Address Line 2": "P.E.C.H.S.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 21 453 9884 (5 lines)"
+    },
+    {
+      "Company Name": "iPhlux Technologies (Pvt.) Ltd.",
+      "Address Line 1": "4th Floor, Mateen Galary, 172/J, Block-2",
+      "Address Line 2": "P.E.C.H.S.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "92-21-4322-657 / 92-21-4322-658"
+    },
+    {
+      "Company Name": "CATCOS (Pvt.) Ltd.",
+      "Address Line 1": "22-A, Block 7/8,",
+      "Address Line 2": "Tipu Sultan Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": -383.9291
+    },
+    {
+      "Company Name": "Mazik Pakistan",
+      "Address Line 1": "Suite # 1005, 10th Floor, Caesars Tower main Shahrah-e-Faisal, Opposite to Aisha Bawany Academy, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-32792118-20"
+    },
+    {
+      "Company Name": "d.o.t.z Technologies",
+      "Address Line 1": "57-c Street 11",
+      "Address Line 2": "Badar Commercial, DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 21 5349527"
+    },
+    {
+      "Company Name": "Netpace Systems",
+      "Address Line 1": "Suite No: 1003-4",
+      "Address Line 2": "Park Avenue, PECHS - 6",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-4313715-8"
+    },
+    {
+      "Company Name": "Ensign Communique (Pvt) Ltd",
+      "Address Line 1": "HO SAPS, Malir Avenue Road, near DHL, Jinnah Int'l Airport",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92-21-111-367-446, 2272391"
+    },
+    {
+      "Company Name": "Financial Technologies & Consulting (Pvt.) Ltd",
+      "Address Line 1": "R-9/11/6, 2nd Floor, Mashoor Mahal",
+      "Address Line 2": "Off. I.I. Chundrigar Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": -150.8828
+    },
+    {
+      "Company Name": "Lakson Business Solutions Limited",
+      "Address Line 1": "10th Floor, Lakson Square Building #2",
+      "Address Line 2": "Sarwar Shaheed Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "92 (21) 569-8690"
+    },
+    {
+      "Company Name": "Business Beam (Pvt.) Limited",
+      "Address Line 1": "511, Park Avenue, Block 6, P.E.C.H.S.",
+      "Address Line 2": "Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+9221 431.6494, 4559076"
+    },
+    {
+      "Company Name": "KTF Education (Arena Multimedia)",
+      "Address Line 1": "806 Park Avenue, 24-A Block 6",
+      "Address Line 2": "P.E.C.H.S. Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-4310960-66"
+    },
+    {
+      "Company Name": "Third Eye Managed Services",
+      "Address Line 1": "C-155, Block2",
+      "Address Line 2": "Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-5291821-29"
+    },
+    {
+      "Company Name": "Teleware Technologies",
+      "Address Line 1": "206, 12-A, Block 6",
+      "Address Line 2": "P.E.C.H.S. Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-4313091-2"
+    },
+    {
+      "Company Name": "Al-Rehman Technologies (Membership Number Not Usable)",
+      "Address Line 1": "Suite 103, First Floor, Sea Breeze Plaza",
+      "Address Line 2": "Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "8525970-1, 2782272-3"
+    },
+    {
+      "Company Name": "Webiz Media (Pvt.) Ltd.",
+      "Address Line 1": "(Head Office) \r\nWebiz Media 1001 Park Aveneue, 24-A",
+      "Address Line 2": "Block-6 P.E.C.H.S Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34553080, 021-34386050,"
+    },
+    {
+      "Company Name": "Invaterra (Pvt.) Ltd.",
+      "Address Line 1": "207, Tariq Centre, Plot 1-C, Commercial Area",
+      "Address Line 2": "Main Tariq Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0301-249-8159"
+    },
+    {
+      "Company Name": "Catalyst Interactive",
+      "Address Line 1": "Suite 1600, 16th Floor, Kashif Centre",
+      "Address Line 2": "Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 5640015
+    },
+    {
+      "Company Name": "Insoft",
+      "Address Line 1": "ST-2D, Block-17, Gulshan-e-Iqbal",
+      "Address Line 2": "Adjacent to National Stadium",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "4977457, 111-400-300, 4801430-35"
+    },
+    {
+      "Company Name": "GoodCore Software (Pvt.) Ltd.",
+      "Address Line 1": "4th Floor, 19-C Shahbaz Commercial, Lane-4, DHA Phase VI, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "92-21-534-8632-3"
+    },
+    {
+      "Company Name": "Linkage Technologies (Pvt.) Ltd.",
+      "Address Line 1": "46-C, Mezzanine Floor, Bukhari Commercial Lane 1",
+      "Address Line 2": "Phase VI, D.H.A.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-5242531-5"
+    },
+    {
+      "Company Name": "KZee Interactive",
+      "Address Line 1": "46- C, Mezzanine Floor, Bukhari Commercial Lane 1",
+      "Address Line 2": "Phase VI DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "92-300-8277718"
+    },
+    {
+      "Company Name": "ICIL (Pvt.) Ltd.",
+      "Address Line 1": "D-90, Block-2, Scheme 5",
+      "Address Line 2": "Kehkashan, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92-21) 5877451-4"
+    },
+    {
+      "Company Name": "Enterprise Team",
+      "Address Line 1": "607 Ibrahim Trade Tower",
+      "Address Line 2": "Plot 1, Block 7&8, MCHS, Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 452 9789, 34327679"
+    },
+    {
+      "Company Name": "Advanced Research Projects and Technologies (Pvt.) Ltd.",
+      "Address Line 1": "Plot No: 195, Block A, Sindhi Muslim Cooperative Housing Society, Karachi.",
+      "Address Line 2": "Phase II (Ext), D.H.A.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-5377491-4\r\n+92 21 3525 0741-46, 021-5317707-10"
+    },
+    {
+      "Company Name": "Blue Ice Technologies",
+      "Address Line 1": "16-C, Lane-2, Rahat Commercial Area",
+      "Address Line 2": "DHA - 6",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 584.4738"
+    },
+    {
+      "Company Name": "110 Solutions",
+      "Address Line 1": "Suite 301, Level 2, IT Park, Tariq Centre",
+      "Address Line 2": "Plot No: 1-C, Commercial Area, Tariq Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4327478-79\r\n(021) 4327478"
+    },
+    {
+      "Company Name": "Leading Edge Solutions (Pvt) Limited",
+      "Address Line 1": "Mezzanine Floor, 1-B, Faiyaz Centre,",
+      "Address Line 2": "3-A S.M.C.H.S.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4385789, 4543301"
+    },
+    {
+      "Company Name": "NDC - BPO (Network Data & Call - Business Process Outsourcing)",
+      "Address Line 1": "Suite # 101-106, 1st Floor, Mashriq Centre,",
+      "Address Line 2": "Gulshan-e-Iqbal, Block-14",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 4934858, 4142113"
+    },
+    {
+      "Company Name": "IBEX Global Solutions (Pvt.) Ltd.",
+      "Address Line 1": "19th Floor Centre Point Building, Plot No. 66/3-2, Off Shaheed e Millat \r\nExpressway, Adjacent to Honda Denfense Showroom, Near KPT Interchange, \r\nKorangi, Karachi",
+      "Address Line 2": "Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 111874874"
+    },
+    {
+      "Company Name": "TECHSENSE (Pvt.) Ltd.",
+      "Address Line 1": "Suite # 2/1, World Business Center, Plot 147,",
+      "Address Line 2": "18th East Street, Phase-I, D.H.A.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 5884911-13"
+    },
+    {
+      "Company Name": "A2Z Creatorz",
+      "Address Line 1": "64 C Second Floor 21 st Commercial Street Phase 2 Extension DHA Karachi",
+      "Address Line 2": "Phase II Ext. DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221) 021-5385205-7, 0300-8277718"
+    },
+    {
+      "Company Name": "Inbox Business Technologies Ltd.",
+      "Address Line 1": "5th Floor, Dawood Center, M T Khan Road",
+      "Address Line 2": "Islamabad office address.\r\n16th Floor, 55-B ISE Towers Blue Area ISLD.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-111-551-551 Ext 4416."
+    },
+    {
+      "Company Name": "BITS Software House",
+      "Address Line 1": "A-359, Block 5, Gulshan-e-Iqbal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(9221)4219908, 8420967"
+    },
+    {
+      "Company Name": "Smart Solutions",
+      "Address Line 1": "Executive Floor, Glass Tower E/15,",
+      "Address Line 2": "Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92121)5639926"
+    },
+    {
+      "Company Name": "WallSoft Technologies (Pvt.) Ltd.",
+      "Address Line 1": "903-A, 9th Floor, Saima Trade Tower,",
+      "Address Line 2": "I.I. Chundrigar Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-2638535-37"
+    },
+    {
+      "Company Name": "Hambra Consulting Corporation\r\n(now known as Sakonent)",
+      "Address Line 1": "F-50/2 Murtaza Villa",
+      "Address Line 2": "Cifton Block 8",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-5372635; 0334-2041434"
+    },
+    {
+      "Company Name": "FSD Solutions",
+      "Address Line 1": "Suite # 304, Software Technology Park-II,",
+      "Address Line 2": "Tariq Center, Main Tariq Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-4523791"
+    },
+    {
+      "Company Name": "Sybrid (Pvt.) Ltd.",
+      "Address Line 1": "B-701 & 702, 7th Floor Lakson Square Building No. 3, Sarwar Shaheed Road Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "111-792-743"
+    },
+    {
+      "Company Name": "iTack Solutions",
+      "Address Line 1": "20-C, 13th Commercial Street",
+      "Address Line 2": "DHA II (Ext)",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 35312770"
+    },
+    {
+      "Company Name": "Centric Technologies",
+      "Address Line 1": "Suite 819, Trade Tower,",
+      "Address Line 2": "Opp. Services Mess,Abdullah Haroon Road,\r\nAbdullah Haroon Road,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "21-5223199"
+    },
+    {
+      "Company Name": "Softech Corporation (Pvt.) Ltd.",
+      "Address Line 1": "Plot # 43/ G-1 P.E.C.H.S, Block 6",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0300-2178086"
+    },
+    {
+      "Company Name": "Volmax (Pvt.) Ltd.",
+      "Address Line 1": "192-N, Block-2,",
+      "Address Line 2": "P.E.C.H.S,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-4314781-3"
+    },
+    {
+      "Company Name": "Sybertek",
+      "Address Line 1": "2-B, Model Town",
+      "City": "Quetta",
+      "Region": "South",
+      "Phone": "081-2833885"
+    },
+    {
+      "Company Name": "Cloud BPO Private Limited",
+      "Address Line 1": "3rd Floor, 36-C, Bokhari Commercial,",
+      "Address Line 2": "Lane-7, DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35245754, 35245742"
+    },
+    {
+      "Company Name": "Innovations",
+      "Address Line 1": "D- 04 Samar Gardens, Block G",
+      "Address Line 2": "Hyderi, North Nazimabad",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0321-3788147"
+    },
+    {
+      "Company Name": "COMMTEL",
+      "Address Line 1": "C-37, Block-4, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 5822467"
+    },
+    {
+      "Company Name": "TenPearls (Pvt.) Ltd.",
+      "Address Line 1": "3rd Floor (NASTP), Main Shahra-e-Faisal, Karachi, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "92 21 34328447-9"
+    },
+    {
+      "Company Name": "New Horizon Computers",
+      "Address Line 1": "Suite # 1800, 18th Floor, Tower B,",
+      "Address Line 2": "Saima Trade Tower,I.I.Chundrigar Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 3214750"
+    },
+    {
+      "Company Name": "Plumsmedia (Pvt) Ltd",
+      "Address Line 1": "402 - 407, Progressive Square,",
+      "Address Line 2": "Shahrah-e-Faisal.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34542428"
+    },
+    {
+      "Company Name": "RIKSOF (Pvt.) Ltd.",
+      "Address Line 1": "#603 Horizon Tower, Block 3, Clifton,Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(21) - 32729191"
+    },
+    {
+      "Company Name": "Ice Animations (Pvt.) Ltd.",
+      "Address Line 1": "ICE Animations (Pvt) Ltd. Lakson Square, Building #3 Office 801-802, 8th floor Sarwar Shaheed Road",
+      "Address Line 2": "Karachi, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0092 21 384 00 555"
+    },
+    {
+      "Company Name": "Sepia Solutions",
+      "Address Line 1": "403 Business Center, PECHS Block 6 Main Shahrah e Faisal Karachi tel: +92 21 34324499",
+      "Address Line 2": "DACHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34384418"
+    },
+    {
+      "Company Name": "Kolachi Advanced Technologies (Pvt.) Ltd.",
+      "Address Line 1": "16-C, Lane-2, Rahat Commercial",
+      "Address Line 2": "Phase VI, DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35844378"
+    },
+    {
+      "Company Name": "Bahria Enterprise Systems & Technologies (BEST)",
+      "Address Line 1": "6th Floor, Bahria Complex - II,",
+      "Address Line 2": "M. T. Khan Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35610813"
+    },
+    {
+      "Company Name": "Primatics Financial (Pvt.) Ltd.",
+      "Address Line 1": "39 E-1, Block 6,",
+      "Address Line 2": "P.E.C.H.S., Shahrah-eFaisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-3430861-2"
+    },
+    {
+      "Company Name": "Aekpani Networks",
+      "Address Line 1": "Suite # 25-26A, D-3,\r\nSnowhite Commercial Complex,",
+      "Address Line 2": "K.C.H.S (Near Baloch Colony Flyover), \r\nMain Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34398741"
+    },
+    {
+      "Company Name": "Fourgen Information Systems (Pvt.) Ltd.",
+      "Address Line 1": "Ground Floor, Plot M1, Begum Rabia Siddique Road,",
+      "Address Line 2": "Bahadurabad Commercial Area,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34892595"
+    },
+    {
+      "Company Name": "Htech Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Plot No. 47-J Razi Road, PECHS Block 6 Sharah e faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34312453-4"
+    },
+    {
+      "Company Name": "Trade Key (Pvt.) Ltd.",
+      "Address Line 1": "1001-1002, Park Avenue,",
+      "Address Line 2": "Shahrah e Faisal,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "111-111-539"
+    },
+    {
+      "Company Name": "Information Systems Associates Ltd. (Comstar)",
+      "Address Line 1": "Floor Ilaco House Abdullah Haroon Road",
+      "Address Line 2": "Saddar,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "92-21-35637107-8"
+    },
+    {
+      "Company Name": "22 Four",
+      "Address Line 1": "17 Sibco Avenue Center",
+      "Address Line 2": "Stracthen Road R.A.lines",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0334-6268644"
+    },
+    {
+      "Company Name": "YDA (Pvt.) Limited",
+      "Address Line 1": "Plot No.15, Street6, Block J, Nazimabad,",
+      "Address Line 2": "Number: 2,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(0213) 6623913"
+    },
+    {
+      "Company Name": "Simplicon Solutions",
+      "Address Line 1": "Anum Estate, Suite 606,",
+      "Address Line 2": "6th Floor Shahra-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 -3432 1677 , 3543 7984"
+    },
+    {
+      "Company Name": "Viftech Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Plot No.32/33, Sector No.23, Korangi Industrial Area,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35053305-6, 021-35055842,"
+    },
+    {
+      "Company Name": "IBM Italia S.P.A",
+      "Address Line 1": "1st and 2nd Floors, Nice Trade Orbit Building,",
+      "Address Line 2": "Plot No. 44 A & B, PECHS, Block 6, Sh-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-32915000"
+    },
+    {
+      "Company Name": "KCompute (Pvt.) Ltd.",
+      "Address Line 1": "S.A. 20, FL C4, K.M.C.H. Society,",
+      "Address Line 2": "Near Rangoonwala Hall, Hyder Ali Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(92)-21-34942736, 0300-8227863"
+    },
+    {
+      "Company Name": "TECHNOMICS INTERNATIONAL",
+      "Address Line 1": "93 Century Court, Woking, GU21 6DR, United Kingdom & Pakistan: No. 88-E",
+      "Address Line 2": "St 23, Askari 4, Rashid Minhas Road,",
+      "City": "Karachi",
+      "Region": "South"
+    },
+    {
+      "Company Name": "C Square Consulting (Pvt.) Ltd.",
+      "Address Line 1": "2-D, Mohammad Ali Society, Off Tipu Sultan Road, Muhammad Ali Society (MACHS) Karachi",
+      "Address Line 2": "Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 (21) 3432-5415"
+    },
+    {
+      "Company Name": "ER Solutions",
+      "Address Line 1": "House # A2/2 street 1,",
+      "Address Line 2": "Block 1 Gulshan Iqbal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34812219"
+    },
+    {
+      "Company Name": "Tectutive (Private) Limited",
+      "Address Line 1": "104 & 207, Tariq center (IT park) ,",
+      "Address Line 2": "Tariq Road",
+      "City": "karachi",
+      "Region": "South"
+    },
+    {
+      "Company Name": "Innovision I.T. Consultancy & Solutions",
+      "Address Line 1": "B-174, Block-2",
+      "Address Line 2": "Gulshan-e-Iqbal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34978726, 0321-2240478"
+    },
+    {
+      "Company Name": "Next Generation Innovations",
+      "Address Line 1": "Office no. 1401, 14th Floor, Dilkusha Forum, Tariq Road",
+      "Address Line 2": "Tariq Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(0213)4304183, 0321-2037788"
+    },
+    {
+      "Company Name": "TimeXperts (Pvt.) Ltd.",
+      "Address Line 1": "101 Business Center, 19/1A PECHS Block 6",
+      "City": "Karachi",
+      "Region": "South"
+    },
+    {
+      "Company Name": "Software Labs Qordata",
+      "Address Line 1": "Suite # 1005, 10th Floor, Dilkusha Forum, Plot # 7, DMCHS Block 3, Tariq Road, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34538866"
+    },
+    {
+      "Company Name": "Spur Solutions (Pvt.) Ltd.",
+      "Address Line 1": "3rd Floor, Dadex House, 34-A/1, Block-6, P.E.C.H.S, Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0345-8881890"
+    },
+    {
+      "Company Name": "Algotrek Technology Consulting",
+      "Address Line 1": "602 Dilkusha Forum. Tariq Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 34321115"
+    },
+    {
+      "Company Name": "Mazars",
+      "Address Line 1": "Mazars Consulting Pakistan, 10th Floor NICL Building, Abassi Shaheed Road,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "009221-111-000-221"
+    },
+    {
+      "Company Name": "Innovative Integration (Pvt.) Ltd",
+      "Address Line 1": "2nd Floor KDLB Buidling, 58 West Wharf Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 - 32311933, 021 - 32200013"
+    },
+    {
+      "Company Name": "DG Harbour PVT LTD",
+      "Address Line 1": "48M, Block 6, PECHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "34302260/1"
+    },
+    {
+      "Company Name": "Dockland Technologies Pakistan Private Limited",
+      "Address Line 1": "98 Al Hamra C.H.S. Block-7/8, Off Tipu Sultan Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 34522798"
+    },
+    {
+      "Company Name": "M3 Technologies Pakistan (Pvt.) Limited",
+      "Address Line 1": "614, 6th Floor, Continental Trade Centre, Block-8, Clifton,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "35302983-88"
+    },
+    {
+      "Company Name": "Gaditek Associates",
+      "Address Line 1": "140-H & 141-D Block 2, PECHS, Karachi, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34557089"
+    },
+    {
+      "Company Name": "The Game Loop (Pvt.) Ltd.",
+      "Address Line 1": "2nd floor 36-C Bokhari Commercial Lane-7 Phase VI DHA Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35245742"
+    },
+    {
+      "Company Name": "Primero Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Plot No. 84-C, 3rd Floor, 21st Commercial Street, Phase II Ext. DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35887168"
+    },
+    {
+      "Company Name": "Monet (Pvt.) Ltd.",
+      "Address Line 1": "Monet Pvt Ltd, suit no 109 & 111,1 st floor,Bahria Complex III M.T Khan road Karach,Sindh-Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35205526"
+    },
+    {
+      "Company Name": "Pi Labs",
+      "Address Line 1": "801 & 813, Portway Trade Center, Sh-Faisal,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021- 34052293"
+    },
+    {
+      "Company Name": "GCS (Pvt.) Ltd.",
+      "Address Line 1": "47 -J, PECHS Block 6, Razi Road, Sharah e Faisal, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34544153-4"
+    },
+    {
+      "Company Name": "ITMinds Limited",
+      "Address Line 1": "2nd Floor, CDC House, 99-B, Block B, SMCHS, Main Shahra e Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 92111111500
+    },
+    {
+      "Company Name": "SAKONENT (SMC PVT) LIMITED",
+      "Address Line 1": "Business enclave, 77/c 12th commercial street, Phase II Extension DHA, Karachi, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "Ali Saeed"
+    },
+    {
+      "Company Name": "BestHive Pakistan",
+      "Address Line 1": "Room # 209, 2nd Floor, Anum Empire, Plot ZCC-1, Block - 7/8, K.C.H.S. Main Shahrah-e-Faisal,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134150595
+    },
+    {
+      "Company Name": "Cybarea (Pvt.) Ltd.",
+      "Address Line 1": "302, 3rd floor, Shehnaz Arcade near Naheed Super Market, Shaheed e Millat Road, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-3456344\r\n0314-7732119"
+    },
+    {
+      "Company Name": "Team Ants (Pvt.) Ltd.",
+      "City": "Karachi",
+      "Region": "South"
+    },
+    {
+      "Company Name": "TEXPO Pakistan (Pvt) LTD",
+      "Address Line 1": "TEXPO HOUSE , C-41 Sector W-III, Gulshan-e-Maymar",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "92-21-36832183"
+    },
+    {
+      "Company Name": "SAKONENT (SMC PVT) LIMITED",
+      "Address Line 1": "Business enclave, 77/c 12th commercial street, Phase II Extension DHA, Karachi, Pakistan",
+      "City": "Karachi",
+      "Region": "South"
+    },
+    {
+      "Company Name": "DGS Private Limited",
+      "Address Line 1": "Arcadia Building Plot 119 Street 16 DHA PHase 1 Main Korangi Road",
+      "City": "karachi",
+      "Region": "South"
+    },
+    {
+      "Company Name": "Smartworks Systems",
+      "Address Line 1": "Plot No.18, Block 7&8 MCHS",
+      "City": "Karachi",
+      "Region": "South"
+    },
+    {
+      "Company Name": "Nexdegree (Pvt.) Ltd.",
+      "Address Line 1": "421 Main Siraj-ud-Daula Road, Bahdurabad, Karachi",
+      "City": "Karachi",
+      "Region": "South"
+    },
+    {
+      "Company Name": "Tohfay.com (T-Shop International)",
+      "Address Line 1": "Office-2, Mezzanine Floor, Plot# 19-C, Badar Commercial Street # 1, Phase-V, D.H.A",
+      "City": "Karachi",
+      "Region": "South"
+    },
+    {
+      "Company Name": "INCISIVESOFT",
+      "Address Line 1": "301 RIMJHIMSHOPPING CENTRE, BLOCK-6, GULSHAN-E-IQBAL, Karachi",
+      "City": "Karachi",
+      "Region": "South"
+    },
+    {
+      "Company Name": "Webotiks",
+      "Address Line 1": "204, 2nd Floor, Parsa Tower, Shahra-e-Faisal",
+      "City": "Karachi",
+      "Region": "South"
+    },
+    {
+      "Company Name": "Bari's Technology Solution",
+      "Address Line 1": "Park Avenue, Suite # 502-503, Shahrah-e-Faisal Karachi - Pakistan",
+      "City": "Karachi",
+      "Region": "South"
+    },
+    {
+      "Company Name": "ICON Consultants (Pvt) Ltd",
+      "Address Line 1": "173-W, Block 2, P.E.C.H.S. Karachi",
+      "City": "Karachi",
+      "Region": "South"
+    },
+    {
+      "Company Name": "Viper Technology (Pvt.) Ltd.",
+      "Address Line 1": "49 C Viper House DHA Phase 2 Extension, Korangi Road Karachi",
+      "City": "Karachi",
+      "Region": "South"
+    },
+    {
+      "Company Name": "Intellexal Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Bungalow No. 176-B, Block B, SMCHS, Karachi, Sindh, Pakistan-75350 \r\n",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "92213-4331234-5"
+    },
+    {
+      "Company Name": "Universal Softech",
+      "Address Line 1": "202, Z.S Appartment, Manakji Street, Garden East",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "mob: 0314-7474714"
+    },
+    {
+      "Company Name": "Innovarge",
+      "Address Line 1": "1/F, Bahria Complex III, M.T. Khan Road, Karachi, Pakistan.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel 922135202935, +923343239980"
+    },
+    {
+      "Company Name": "Matech Consulting & Outsourcing",
+      "Address Line 1": "C-98, KDA Scheme 1, Karsaz Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021 34145358-9"
+    },
+    {
+      "Company Name": "Crystallite Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "Suit # 1210-1212, 12th Floor, Caesars Tower, Main Shahah-e-Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 92 021 32803139"
+    },
+    {
+      "Company Name": "Crystallite",
+      "Address Line 1": "Suit # 1206-1209, 12th Floor, Caesars Tower, Main Shahah-e-Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 92 021 32803136"
+    },
+    {
+      "Company Name": "Tech4life Enterprises",
+      "Address Line 1": "House # B-222, Block 13D/1, Gulshan-e-Iqbal, Karachi, Pakistan.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: +92-21-34810346-7"
+    },
+    {
+      "Company Name": "SPC TEK Pakistan Private Limited",
+      "Address Line 1": "2nd Floor, SOFCOM House - Plot # ST-9, Block 5, Gulshan-e-Iqbal, Karachi-75300, Pakistan.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: +92-21-34815997"
+    },
+    {
+      "Company Name": "Ride Services (PVT) Ltd.",
+      "Address Line 1": "Dot Zero 14th Floor Main Tariq Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 0300 2001298"
+    },
+    {
+      "Company Name": "Blue Zorro (Pvt.) Ltd.",
+      "Address Line 1": "Suite No. 1003, Park Avenue, P.E.C.H.S, Block-6",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021 34313715-17"
+    },
+    {
+      "Company Name": "ARITTEK",
+      "Address Line 1": "OFFICE 2 FLOOR 3RD BUILDING 34C LANE 4 KHAYABAN-E-SHAHBAZ DHA PHASE VI",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 00922135172415"
+    },
+    {
+      "Company Name": "Cooperative Computing",
+      "Address Line 1": "M1-M2, Mezzanine Floor, Business Avenue, Shahrah-e-Faisal Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021-34547001"
+    },
+    {
+      "Company Name": "VentureDive Technology Services Limited",
+      "Address Line 1": "14th Floor Dilkusha Forum, Tariq Rd",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: (021)34556352"
+    },
+    {
+      "Company Name": "PNC Solutions",
+      "Address Line 1": "suite 209 Business Avenue Building, Shahrah e Faisal, PECHS Block 6",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 02134324113"
+    },
+    {
+      "Company Name": "Centegy Technologies (Pvt.) Ltd.",
+      "Address Line 1": "2nd Floor Beaumont Plaza, Beaumont Road Karachi, Sindh, Pakistan Phone: (+92) (0)2135693541",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "Phone: (+92) (0)2135693541"
+    },
+    {
+      "Company Name": "Astica (Pvt.) Ltd.",
+      "Address Line 1": "205 Second Floor Business Arcade 27/A Block 6 PECHS Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 4082307342
+    },
+    {
+      "Company Name": "Objects",
+      "Address Line 1": "Suite # 616, Caesars Tower , Sharah e Faisal Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: +923212802638"
+    },
+    {
+      "Company Name": "TPL Trakker",
+      "Address Line 1": "12th Floor Centre Point, off Shaheed e Millat Expressway, adjacent to KPT Interchange Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0092-21-34390300-5 Ext: 31801"
+    },
+    {
+      "Company Name": "The Brand Crew (Pvt.) Ltd.",
+      "Address Line 1": "3rd Floor, Plot No. 9 C & 11 C, \r\nAl-Murtaza Commercial Lane No. 2 Phase VIII, DHA Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021 35300241-3"
+    },
+    {
+      "Company Name": "Socio Engineering Consultants",
+      "Address Line 1": "137/3 Khayaban-e-ghazi Phase VI DHA Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021-35844816"
+    },
+    {
+      "Company Name": "i3PATHFINDER Solutions Pvt. Ltd.",
+      "Address Line 1": "9th Floor Kawish Crown Plaza, Main Shahra-e-Faisal Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021-37131520-23"
+    },
+    {
+      "Company Name": "VOZYE SMC PVT. LIMITED",
+      "Address Line 1": "E-46/1, Block - 4, Gulshan-e-Iqbal Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: +923008204250"
+    },
+    {
+      "Company Name": "AT&T Global Network Services International, Inc. - Pakistan Branch",
+      "Address Line 1": "2nd Floor, Nice Trade Orbit Building, PECHS Block 6, Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: +92-21-3432-9650"
+    },
+    {
+      "Company Name": "Zegatron SMC(Pvt) Ltd",
+      "Address Line 1": "A-76 Block 2 Gulshan E Iqbal Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 02134831008"
+    },
+    {
+      "Company Name": "IngenicoTribe (Pvt.) Ltd.",
+      "Address Line 1": "Suite No. 405 4th floor park avenue shahrah e faisal karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 34619147, 34619587"
+    },
+    {
+      "Company Name": "DYS Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Suit 1012, 10th Floor, Kavish Crown Plaza Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: +922134330999"
+    },
+    {
+      "Company Name": "E-Cart Services Pakistan Pvt. Ltd.",
+      "Address Line 1": "2A 2nd Floor, Dolmen Executive Tower, Clifton, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021-35297851-56"
+    },
+    {
+      "Company Name": "CloudLead",
+      "Address Line 1": "Suite # 213, 2nd Flr, Anum Blessings, Shara e Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 02134325094"
+    },
+    {
+      "Company Name": "SecureBeans",
+      "Address Line 1": "Suite # 103, Block-A, Sea Breeze Plaza, \r\nPECHS, Shahra-e-Faisal, Karachi-Pakistan.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021 3 2802846-7"
+    },
+    {
+      "Company Name": "Cult Production",
+      "Address Line 1": "78-C, Second Floor, Main Khayaban-e-Jami, Phase VII, DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021 35395434-6"
+    },
+    {
+      "Company Name": "Traffic Online JLT",
+      "Address Line 1": "50-J, Shahrah-e-Faisal Rd, Block 6 PECHS, Karachi, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34978163"
+    },
+    {
+      "Company Name": "Dikhawa",
+      "Address Line 1": "plot 729/c/2, 4th floor, block-2,PECHS Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923213454292
+    },
+    {
+      "Company Name": "Multinet Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "1D-203, Sector 30, Korangi Industrial Area Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021-111-021-021"
+    },
+    {
+      "Company Name": "Magma Consulting Corporation (Pvt.) Ltd.",
+      "Address Line 1": "Plot No. 1/6 Q, 2nd floor, office No. 2/A, Block No. 6, P.E.C.H.S, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923212070456
+    },
+    {
+      "Company Name": "Bitswits (Pvt.) Ltd.",
+      "Address Line 1": "Suit # 1307, 13th. Floor, Caesars Tower, Shahrah-e-Faisal, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021-32785034"
+    },
+    {
+      "Company Name": "Mojo Solutions & Services (Pvt) Ltd",
+      "Address Line 1": "Office # 03, 1st floor, Plot # 1/6-Q, Block 6, PECHS, Nursery Bridge, Shahrah-e-faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 0332-8052185"
+    },
+    {
+      "Company Name": "Xtreme Solutions Pvt (Ltd)",
+      "Address Line 1": "C-817, Block-2, PECHS, Near Jheel Park.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 0213-4550296-9"
+    },
+    {
+      "Company Name": "Innokat (PVT) Ltd",
+      "Address Line 1": "136/B, PSB Building, Choudhry Rehmat Ali Road, SMCHS, Block B Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: +92 34327093"
+    },
+    {
+      "Company Name": "Euronet Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "7th Floor, Bahria Complex-III, M.T. Khan Road, Karachi - 74000, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021-35271905"
+    },
+    {
+      "Company Name": "E-Ocean (Pvt.) Ltd.",
+      "Address Line 1": "Mezzanine Floor,29-c, sunset lane #1, Phase II, Ext. DHA, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 35317900-01"
+    },
+    {
+      "Company Name": "Creative Chaos Software Services Private Limited",
+      "Address Line 1": "2nd Floor Alkaram Center Plot BC-1 Block 7 Clifton.Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 0341-2087093"
+    },
+    {
+      "Company Name": "TallyMarks Consulting",
+      "Address Line 1": "A-37, 2nd Floor, Suzaka Chamber, Shahrah-e-Faisal Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: +9221-34320451"
+    },
+    {
+      "Company Name": "HDK Solutions",
+      "Address Line 1": "Suite No. 703, 7th Floor,Fortune Center, Shahrah-e-Faisal Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 34537651"
+    },
+    {
+      "Company Name": "AUA Solutions",
+      "Address Line 1": "Anum Blessings Suite 503, KUCHS, ZCC Block 7/8, Off Baloch Colony Bridge, Near Old Duty Free Ctr",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 9221-34325134"
+    },
+    {
+      "Company Name": "Orange Room (Pvt.) Ltd.",
+      "Address Line 1": "Plot 18-C/1 Khayaban-e-Nishat DHA Phase VI Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021-35850291"
+    },
+    {
+      "Company Name": "Chapal (Pvt.) Limited",
+      "Address Line 1": "G-19/2, Khayaban-e-Jami, Block 9, Clifton Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: +92 21 35839933"
+    },
+    {
+      "Company Name": "Ecommerce Gateway Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "Room # M 7 & 8, Iqra University,Main Campus,(Old Building) \r\n\r\nPlot # 117, Defence View, Shaheed-e-Millat Road Extension,\r\n\r\n",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "\r\nPh # 021-38709970"
+    },
+    {
+      "Company Name": "The Data Corporation (Pvt.) Limited",
+      "Address Line 1": "Suite No. 506, 5th Floor, Progressive Centre, 30-A, Block-6, P.E.C.H.S, Shahrah-e-Faisal Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021-34322025-26"
+    },
+    {
+      "Company Name": "Assurety Consulting (Pvt.) Ltd.",
+      "Address Line 1": "SUITE # 1107-1109, 11TH FLOOR, NATIONAL IT PARK, CAESARS TOWER, SHAHRAH-E-FAISAL KARACHI",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 32803045"
+    },
+    {
+      "Company Name": "MaxApex Hosting",
+      "Address Line 1": "Office 101, Dominion Business Center – 1, Main Jinnah Avenue, Bahria Town Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021-36635994"
+    },
+    {
+      "Company Name": "Computer Information Services (Pvt.) Ltd.",
+      "Address Line 1": "B-91 Muhammad Ali Cooperative Housing Society Main Tipu Sultan Road Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 34533312,34521329,34521379"
+    },
+    {
+      "Company Name": "NextGen Technologies",
+      "Address Line 1": "Office 602, 6th Floor, Caesar's Tower, Main Shahrah -e -Faisal Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 92 (021) 327 80 110"
+    },
+    {
+      "Company Name": "Gexton",
+      "Address Line 1": "A8/36 Behind Desi Hut, Main Autobahn Latifabad, Hyderabad",
+      "City": "Hyderabad",
+      "Region": "South",
+      "Phone": "tel: 0223821566"
+    },
+    {
+      "Company Name": "AALogics (SMC-Pvt.) Ltd.",
+      "Address Line 1": "Office #301, 3rd Floor Rim Jhim Center Near Disco Bakery, Block 6, Gulshan-e-Iqbal, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 0321-2043624"
+    },
+    {
+      "Company Name": "Innovative Network (Pvt.) Ltd.",
+      "Address Line 1": "Suite No 516, 5th Floor, Progressive Plaza, PIDC Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021-35653677-80"
+    },
+    {
+      "Company Name": "Broad Peak Consultants (Pvt) Limited",
+      "Address Line 1": "1D-203, Sector 30, Korangi Industrial Area, Karachi, Pakistan.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 9221111021021"
+    },
+    {
+      "Company Name": "Evincible Solutions",
+      "Address Line 1": "C-79, Block A, North Nazimabad, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021-36631250"
+    },
+    {
+      "Company Name": "Channeltek Enterprise Private Limited",
+      "Address Line 1": "CT Tower, Plot # 58-C, 11th Commercial Street DHA Phase 11 Ext. Karachi Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 0092-21-111 567 111"
+    },
+    {
+      "Company Name": "WARHAM HealthCare Pvt. Ltd.",
+      "Address Line 1": "1st Floor, PCG Plaza, 253 Sarwar Shaheed Road, Saddar Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 03111269111"
+    },
+    {
+      "Company Name": "Nisum Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "Plot# 28-C, Jami Commercial, Street 2, Phase VII DHA, Karachi, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 0321-8289710"
+    },
+    {
+      "Company Name": "Interactive Health Solutions",
+      "Address Line 1": "Suit#503, Ibrahim Trade Tower, Main Shahra e Faisal-Karachi, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021 3432 7687"
+    },
+    {
+      "Company Name": "Inteinno Private Limited",
+      "Address Line 1": "Park Avenue 312 Shahrah e Faisal Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 03212070555"
+    },
+    {
+      "Company Name": "TPL Maps (Pvt.) Ltd.",
+      "Address Line 1": "11th & 12th Floor, Centrepoint, Off Shaheed-e-Millat Expressway, Adjacent KPT Interchange",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: +922134322555"
+    },
+    {
+      "Company Name": "The Sprint Express Pvt Ltd",
+      "Address Line 1": "13/M PECHS Block 6 Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021 34531301"
+    },
+    {
+      "Company Name": "Basecamp IT Solutions",
+      "Address Line 1": "Suite # 17 5th floor Crystal Heights Faujdari Road Hyderabad",
+      "City": "Hyderabad",
+      "Region": "South",
+      "Phone": "tel: +92-22-2614537"
+    },
+    {
+      "Company Name": "Genetech Solutions",
+      "Address Line 1": "166-G/5 Block No.3 PECHS Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "tel: 021 34558425/ 03362388270"
+    },
+    {
+      "Company Name": "Verge Systems (Pvt.) Ltd.",
+      "Address Line 1": "B-30 G.E.C.H Society near Soneri Bank Qasimabad Hyderabad",
+      "City": "Hyderabad",
+      "Region": "South"
+    },
+    {
+      "Company Name": "Mini Big Technologies",
+      "Address Line 1": "House 2A 4/33 Nazimabad #2 - Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0333 0304770"
+    },
+    {
+      "Company Name": "Future Technologies (Pvt.) Ltd.",
+      "Address Line 1": "5th floor, Citi-View Tower, Shaheed-eMillat road,BYCHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2135205578
+    },
+    {
+      "Company Name": "AMID Tech",
+      "Address Line 1": "Office No B-601, Lakson Square Building No 03, Sarwar Shaheed Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35211703"
+    },
+    {
+      "Company Name": "Ultrasoft System",
+      "Address Line 1": "Basement shop #21,22 Agha Siraj Complex, M.A Jinnah Road Quetta",
+      "City": "Quetta",
+      "Region": "South",
+      "Phone": "0300 8385590"
+    },
+    {
+      "Company Name": "Empiric AI (Pvt.) Ltd.",
+      "Address Line 1": "8th Floor, The Harbour Front Building, HC # 3, Marine Drive, Block 4, Clifton, Karachi, Pakistan.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": -463
+    },
+    {
+      "Company Name": "Global Blue Sky Consulting (Pvt.) Ltd.",
+      "Address Line 1": "Office No. 611, 6th Floor, Progressive Centre, Block-6, P.E.C.H.S.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 34326265"
+    },
+    {
+      "Company Name": "ATC Digital",
+      "Address Line 1": "Room #210, 2nd Floor, Europa Centre, Hasrat Mohani Rd.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0321 2013131"
+    },
+    {
+      "Company Name": "Teltonika Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "311 & 312, Clifton Center, Block-5, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35831080-82"
+    },
+    {
+      "Company Name": "Octa Dev",
+      "Address Line 1": "Suite # 603, Marine Faisal، Shahrah-e-Faisal Rd",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0336 6533334"
+    },
+    {
+      "Company Name": "Contour Software (Pvt.) Ltd.",
+      "Address Line 1": "Prestige Trade Centre SNCC4th floor 1/1A",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0300 8271006"
+    },
+    {
+      "Company Name": "Neusol (Pvt.) Ltd.",
+      "Address Line 1": "Office D-63/1, Block 4, Gulshan-e-Iqbal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 34836637"
+    },
+    {
+      "Company Name": "Out2Sol Pak",
+      "Address Line 1": "PLOT # B-150, Ground Floor, Munawar Chowrangi Road, Block 11, Scheme 36, Gulishtan-e-Johar, Karachi East",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0307 3998974"
+    },
+    {
+      "Company Name": "Vservices (Pvt.) Ltd.",
+      "Address Line 1": "Suite No. 303, Al Khaleej Tower, Near Medicare Hospital, Shaheed-e-Millat Road, Bahadurabad",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0332 8789109"
+    },
+    {
+      "Company Name": "QuickStart (Pvt.) Ltd.",
+      "Address Line 1": "Plot no. 43 B/III, Block 6, PECHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0332 3005773"
+    },
+    {
+      "Company Name": "Insiyabi Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "251-D, 1st Floor,\r\nP.E.C.H.S Blocak-6,\r\nKarachi, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 35635960"
+    },
+    {
+      "Company Name": "Haball (Pvt.) Ltd.",
+      "Address Line 1": "MZ2, Horizon Vista, Block 4, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 353 74194"
+    },
+    {
+      "Company Name": "Technolectuals (Pvt.) Ltd.",
+      "Address Line 1": "5th Floor, Aamir Trade Center, PECHS Block 2, Karachi Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0317 6012169"
+    },
+    {
+      "Company Name": "Cubix (Pvt.) Ltd.",
+      "Address Line 1": "D-23/1, Block 9, Clifton, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34534050"
+    },
+    {
+      "Company Name": "Salesflo (Pvt.) Ltd.",
+      "Address Line 1": "2nd Floor, 50-C, Main Khayaban-e-Shahbaz, DHA Phase 6,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35840340"
+    },
+    {
+      "Company Name": "Mimsoft (Pvt.) Ltd.",
+      "Address Line 1": "Suite#24-25 , 2nd Floor, Glass Tower, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 35642832"
+    },
+    {
+      "Company Name": "Intersys Limited",
+      "Address Line 1": "Office#1, Plot D-18, The Residence, Block 8, Khaliq-Uz-Zaman Road, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-32462414"
+    },
+    {
+      "Company Name": "Devaj Technology",
+      "Address Line 1": "34-A/2 First Floor Lalazar MT Khan Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-3561-0429"
+    },
+    {
+      "Company Name": "Symbiosis Technologies",
+      "Address Line 1": "29B PECHS Block 6 Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0300 8298955"
+    },
+    {
+      "Company Name": "A J Ventures (SMC-Pvt) Ltd.",
+      "Address Line 1": "Suite#4, Ground Floor, Amber Estate Extension, Baloch Colony, Shahra-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 34370141"
+    },
+    {
+      "Company Name": "VeriPark Software Solutions (Pvt.) Ltd.",
+      "Address Line 1": "6th floor Technology Park, ST-8, Main Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 32802672"
+    },
+    {
+      "Company Name": "Creative Ideator",
+      "Address Line 1": "Office #201 40C 14th Commercial St. Sunset Avenue DHA Phase 2 Ext., Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 35315233"
+    },
+    {
+      "Company Name": "Logic-Unit",
+      "Address Line 1": "Second floor, Plot # ST-3, Row 5, Block 3, Gulshan-e-Iqbal, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 34816466"
+    },
+    {
+      "Company Name": "Mintbrains (Pvt.) Ltd.",
+      "Address Line 1": "33-K, Jaffer Street, Block-6, P.E.C.H.S",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34301453-4"
+    },
+    {
+      "Company Name": "Faisal Khan & Company",
+      "Address Line 1": "19-A/II Sunset Avenue, Phase II Extension, DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923458216129
+    },
+    {
+      "Company Name": "Avanza Premier Payment Services",
+      "Address Line 1": "Office # 7-B9, Fakhri Trade Center SR 6/10, Shahrah-e-Liaquat New Challi, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0300 9211102"
+    },
+    {
+      "Company Name": "Linkin Avenue",
+      "Address Line 1": "B-376, First Floor, Block 6, Gulshan-e-Iqbal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34839713"
+    },
+    {
+      "Company Name": "TEXT (Pvt.) Ltd.",
+      "Address Line 1": "47-48, Sector 15, Korangi Industrial Area",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0345-2230275"
+    },
+    {
+      "Company Name": "Rayyanco Business Systems",
+      "Address Line 1": "84 A SMCHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0321-8201794"
+    },
+    {
+      "Company Name": "Paysys Labs (Pvt.) Ltd.",
+      "Address Line 1": "188 1-A، P.E.C.H.S Block 2 Block 2 PECHS, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0321-2430237"
+    },
+    {
+      "Company Name": "Bawany Bros Codup",
+      "Address Line 1": "Plot # 32/03 Block A Banglore town Shahrah-e-Faisal Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0345-3152699"
+    },
+    {
+      "Company Name": "Ahead Host",
+      "Address Line 1": "LATIFABAD BARKAT BHAI TOWN HOUSE 34",
+      "City": "Hyderabad",
+      "Region": "South",
+      "Phone": "0335-2502935"
+    },
+    {
+      "Company Name": "SofDigital Systems (SMC-Pvt.) Ltd.",
+      "Address Line 1": "Suite# 808, 8th Floor, Anum Estate Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34520105"
+    },
+    {
+      "Company Name": "Electro Business",
+      "Address Line 1": "M-4, Building 2/C Lane2, Khayaban e sehar Commercial Phase 7 DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0311-1237111"
+    },
+    {
+      "Company Name": "F9 (Pvt.) Ltd.",
+      "Address Line 1": "505, 5th Floor Progressive Centre Shahrah-e-Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34322370"
+    },
+    {
+      "Company Name": "Mera Sabaq Learning Systems (Pvt.) Ltd.",
+      "Address Line 1": "F 3/3, Block 9, Clifton, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0347-6972227"
+    },
+    {
+      "Company Name": "Dynamic Global Links",
+      "Address Line 1": "1613-1615, 16th Floor, Muhammadi Trade Tower, Altaf Hussain Road, Off I I Chundrigar Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-32371121-25"
+    },
+    {
+      "Company Name": "iVolve",
+      "Address Line 1": "NGC Tower, 3rd Floor, Plot # A-1, Block-3 7/8 KECHS, Jinnah Housing Society,PECHS, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35170686"
+    },
+    {
+      "Company Name": "Decojent",
+      "Address Line 1": "Office #404-405, Rim Jhim Mall, Gulshan-e-Iqbal Block 6",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34960281"
+    },
+    {
+      "Company Name": "Fleekbiz",
+      "Address Line 1": "Office # M-4, Mezzanine Floor, Zenith Heights, Gulistan-e-Jauhar, Block 1, Opp. NED University, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34161261"
+    },
+    {
+      "Company Name": "Aciano Technologies",
+      "Address Line 1": "Suite#801 Emarah Suites Plot No. 8-B Block A S.M.C.H.S, KARACHI,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923333233471
+    },
+    {
+      "Company Name": "Virtual Solutionz",
+      "Address Line 1": "Plot # 256, Garden East, Karachi, Pakistan.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0333-2318036"
+    },
+    {
+      "Company Name": "3Techno Digital (Pvt.) Ltd.",
+      "Address Line 1": "Suite 203, Windsong Palace",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0332-3392172"
+    },
+    {
+      "Company Name": "Enterprise Team",
+      "Address Line 1": "607, Level 6, Ibrahim Trade Towers, Main Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+(9221) 3452 9789, +(9221) 3432 7679"
+    },
+    {
+      "Company Name": "Faysal Associates",
+      "Address Line 1": "635-C PECHS Block-2 off Tariq Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34546838"
+    },
+    {
+      "Company Name": "Astera Software Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "6th Floor, Fortune Towers, Tower A, Office Number # 601-604, Block 6, PECHS, Razi Road, Main Sharah e Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-32783727"
+    },
+    {
+      "Company Name": "Azcorp Entertainment (Pvt.) Ltd.",
+      "Address Line 1": "16 C third floor, lane 2, zamzama boulevard, phase 5 DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35244202"
+    },
+    {
+      "Company Name": "Sherdil IT Academy",
+      "Address Line 1": "A 570 Block J North Nazimabad, Sherdil house",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0332-2278144"
+    },
+    {
+      "Company Name": "Techsurge (Pvt.) Ltd.",
+      "Address Line 1": "1st Floor,1C,Main Khayaban-e-Bukhari, DHA Phase 6, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0213-35250751\r\n0322-2388278"
+    },
+    {
+      "Company Name": "Bespoke Global Solutions",
+      "Address Line 1": "503, Lakhani Arcade, Block 3, BMCHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0333-1222593"
+    },
+    {
+      "Company Name": "Impetus Systems (Pvt.) Ltd.",
+      "Address Line 1": "Office No. 401, 4th Floor, Business Arcade Near Lal Kothi, PECHS Block VI, Shahrah-e-Faisal, Karachi-",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0322-2202733"
+    },
+    {
+      "Company Name": "Teknoloje Solutions",
+      "Address Line 1": "SUITE 201, A-46, 2nd Floor BLOCK 10-A, GULSHAN-E-IQBAL",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34155655"
+    },
+    {
+      "Company Name": "KoderLabs",
+      "Address Line 1": "B-27 11th Floor Noor Trade Center Gulshan e Iqbal Block 13/A",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0317-1117413"
+    },
+    {
+      "Company Name": "Dymaxel Systems (Pvt.) Ltd.",
+      "Address Line 1": "C7, 3rd Floor, TOPRA Plaza,Opposite Federal Urdu University, Main University Road,Block 13 C, Gulshan-e-Iqbal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "92-21-38887829"
+    },
+    {
+      "Company Name": "Inserito (Pvt.) Ltd.",
+      "Address Line 1": "E-133, Block B, Gulshan-E-Jamal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3322222342
+    },
+    {
+      "Company Name": "OBHost",
+      "Address Line 1": "Office Number 509, 5th Floor Cesar Tower Shahre Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-36624678"
+    },
+    {
+      "Company Name": "Talisman Animation Studios",
+      "Address Line 1": "10th Floor, Al Rehman Building, I.I. Chundrigarh Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2132271022
+    },
+    {
+      "Company Name": "Qavi Technologies",
+      "Address Line 1": "2nd Floor, Blossom Trade Center, Tower B, Gulistan-e-Jauhar Block 1",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3332344676
+    },
+    {
+      "Company Name": "Convex Interactive (Pvt.) Ltd.",
+      "Address Line 1": "803, Ibrahim Trade Towers, Shahre Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "02134327748-9"
+    },
+    {
+      "Company Name": "Radius group (Pvt.) Ltd.",
+      "Address Line 1": "165/22-B, Jinnah Town, Near IT University, Samungli Road, Quetta",
+      "City": "Quetta",
+      "Region": "South",
+      "Phone": 812829353
+    },
+    {
+      "Company Name": "Aunh Systems",
+      "Address Line 1": "D-14 Shamsi Coperative Housing Society",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923332152645
+    },
+    {
+      "Company Name": "Digit EMB",
+      "Address Line 1": "G002 Alfa Residency، C-3 Own Homes F.B Area Block -21، Near Centrum Shopping Mall، Block 21 Gulberg Town, Karachi, Karachi City, Sindh 75950",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3228871413
+    },
+    {
+      "Company Name": "Reach Me Faster",
+      "Address Line 1": "Suite 106, Portway Trade Center, Plot 189 SMCHS Block A,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34551254"
+    },
+    {
+      "Company Name": "SUPERTEK",
+      "Address Line 1": "Flat No 1-C Kabir Building Jinnah Road",
+      "City": "Quetta",
+      "Region": "South",
+      "Phone": 92812821513
+    },
+    {
+      "Company Name": "Swash Enterprises",
+      "Address Line 1": "Mezzanine Floor, Plot No 7-E, Street No - 7, Badar Commercial Phase V EXT Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35484834"
+    },
+    {
+      "Company Name": "KASB Securities",
+      "Address Line 1": "16-C, Khayaban e Bukhari, Phase 6 4th Floor",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923012019999
+    },
+    {
+      "Company Name": "Edtal Technologies",
+      "Address Line 1": "S-2 Comm 21, Block 8 Gulshan-e-Iqbal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3441259101
+    },
+    {
+      "Company Name": "Darul Solutions",
+      "Address Line 1": "Westland Trade Centre 4th Floor, Office Suite B-4 , Shaheed-e-Millat Road, Karachi, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134380545
+    },
+    {
+      "Company Name": "Arthur Lawrence (Pvt.) Ltd.",
+      "Address Line 1": "F-45, PECHS, Block 6, Off. Shahra-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(021)34374306"
+    },
+    {
+      "Company Name": "NxN Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "Progressive Center 30-A Shahrah-e-Faisal 312, 3rd Floor, Karachi,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2135113656
+    },
+    {
+      "Company Name": "Xpert Digital (Pvt.) Ltd.",
+      "Address Line 1": "Suit#802, 8th Floor Dilkusha Fourm near Dolman Mall Tariq Road Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34534499"
+    },
+    {
+      "Company Name": "ART(Al Rehman Technologies)",
+      "Address Line 1": "Suite # 112-113, First Floor, Sea Breeze Plaza, Main Shahrah-e-Faisal",
+      "City": "karachi",
+      "Region": "South",
+      "Phone": "00922132782272-3 / 0013165411111"
+    },
+    {
+      "Company Name": "Glenmore Technologies (Pvt.) Ltd.",
+      "Address Line 1": "Suite#1, first floor, 65C 27th street Tauheed Commercial DHA, Phase 5",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35173444"
+    },
+    {
+      "Company Name": "Robotics-World",
+      "Address Line 1": "BIC ORIC IU, Sahheed-e-Millat Road, Defence View Phase 2",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0334-2986462"
+    },
+    {
+      "Company Name": "Hybrid Technologies",
+      "Address Line 1": "17th Floor, Tower A, Saima Trade Towers, I.I. Chundrigarh Road, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 922132621212
+    },
+    {
+      "Company Name": "Core2Plus",
+      "Address Line 1": "Suite # 02, Mezzanine Floor, Siddique Chamber , FB Area Block 12, Gulberg",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0345-2855048"
+    },
+    {
+      "Company Name": "Integration Xperts",
+      "Address Line 1": "12/C, 1ST FLOOR, STAR CHAMBERS, 3RD ITTEHAD COMMERCIAL LANE, PHASE-VI, DHA, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35170768"
+    },
+    {
+      "Company Name": "Tribe Consulting",
+      "Address Line 1": "Tribe Consulting, 10th & 11th Floor, Bahria Town Tower, Main Tariq Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34324297"
+    },
+    {
+      "Company Name": "Unique Technologies",
+      "Address Line 1": "NEW: 226, National Aerospace Science & Technology Park (NASTP), Faisal Contonment, Shahrah-e-Faisal,, Karachi, PAKISTAN\r\nOLD: Suite #209, Al Fiza Glass Tower, Rashid Minhas Road, Gulshan-e-Iqbal Block 10-A",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34832785"
+    },
+    {
+      "Company Name": "Mean3 (Pvt.) Ltd.",
+      "Address Line 1": "Plot No. F-16, floor M-1, Mohammad Ali Housing Society, Karachi\r\n",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923343257767
+    },
+    {
+      "Company Name": "OrangeFox",
+      "Address Line 1": "Dont have a office after COVID. On WFH",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923018234101
+    },
+    {
+      "Company Name": "BenchMatrix (Pvt.) Ltd.",
+      "Address Line 1": "Office# 301, 303&304, Floor 3, Building#3, LAkson Square Sarwar Shaheed Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35620945"
+    },
+    {
+      "Company Name": "IOMechs",
+      "Address Line 1": "House # B-105, Tipu Sultan Road, Muhmmad Ali Society.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0334-3208006"
+    },
+    {
+      "Company Name": "Smartchoice",
+      "Address Line 1": "1st Floor, 5C, 22nd Commercial Street, DHA Phase 2,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3219233222
+    },
+    {
+      "Company Name": "Digitz (Pvt.) Ltd.",
+      "Address Line 1": "7-C, Main Khayaban-e-Ittehad Phase VII, DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2135881750
+    },
+    {
+      "Company Name": "Inabia Software & Consulting",
+      "Address Line 1": "FL 3/5 Main Rashid Minhas Road. Gulshan-e-Iqbal Block 5",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0336 2192 777"
+    },
+    {
+      "Company Name": "SE Talks",
+      "Address Line 1": "Suite#403 Merium Complex Bhaudrabad",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3312092019
+    },
+    {
+      "Company Name": "Global Connect Synergy (Pvt.) Ltd.",
+      "Address Line 1": "Plot No. 44-P Razi Road, P.E.C.H.S Block 6,Sharah-e-faisal.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34312453-4"
+    },
+    {
+      "Company Name": "Htech Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Plot No. 47-J Razi Road, PECHS Block 6 Sharah e faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34312453-4"
+    },
+    {
+      "Company Name": "Stack Labs (Pvt.) Ltd.",
+      "Address Line 1": "Office # 402, 4th Floor, Marine Pride, Plot BC-2 CLifton Block-7",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "111-111-426"
+    },
+    {
+      "Company Name": "CodeLabs (Pvt.) Ltd.",
+      "Address Line 1": "1D-27, Sector 30, Korangi Industrial Area",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3465988657
+    },
+    {
+      "Company Name": "Transviti (Pvt.) Ltd.",
+      "Address Line 1": "State Life Building, No. 1A, Ground Floor, I. I. Chundrigar Road, Karachi-74000.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0092 21 32422344"
+    },
+    {
+      "Company Name": "Inertia Soft (Pvt.) Ltd.",
+      "Address Line 1": "Office# M-2, Mezzanine Floor, Lakhani Corner, Gulshan-e-Iqbal Block 13A",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34961138"
+    },
+    {
+      "Company Name": "Intelligenes",
+      "Address Line 1": "Suite 1002, Tenth Floor Dilkusha Forum Main Tariq Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34540318"
+    },
+    {
+      "Company Name": "Falcon-i (Pvt.) Ltd.",
+      "Address Line 1": "10-B Lalazar MT khan road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-111-007-333"
+    },
+    {
+      "Company Name": "Nexus Corporation",
+      "Address Line 1": "Suite 604 Park Avenue Shahrah e Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34326900"
+    },
+    {
+      "Company Name": "Deltacom Technologies & Services",
+      "Address Line 1": "A-19, First Floor, Gulshan-e-Iqbal Block 13/A, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34832038"
+    },
+    {
+      "Company Name": "Office Automation Services",
+      "Address Line 1": "5th Floor Indigo Business Center Bahadurabad Alamgir Road Block 3 Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-3430611-6"
+    },
+    {
+      "Company Name": "Inseyab Consulting & Information Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Suit # 207-208 2nd Floor Parsa Tower PECHS Block-6 Shara-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34150928-9"
+    },
+    {
+      "Company Name": "Evolligence I.T (Pvt.) Ltd.",
+      "Address Line 1": "Suite# 401-A, Level-4, Saleem Tower, Khayaban-e-ittehad Road, Defense Phase-II Extension, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-37294938"
+    },
+    {
+      "Company Name": "Talverse",
+      "Address Line 1": "146-C, Ramzan Villa, Block-2, PECHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0300-2504457"
+    },
+    {
+      "Company Name": "Be Secure (Pvt.) Ltd.",
+      "Address Line 1": "403 suit number, 4th floor, Forum Mall, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0300-8562295"
+    },
+    {
+      "Company Name": "Informia Tech (Pvt.) Ltd.",
+      "Address Line 1": "Office# 503, 5th Floor Mashrique Center Block-14 Gulshan-e-Iqbal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34911344"
+    },
+    {
+      "Company Name": "Proxima",
+      "Address Line 1": "43 H3- Unit2, Block 6, PECHS, Pakistan",
+      "Address Line 2": "Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34520734"
+    },
+    {
+      "Company Name": "QUANTA MIND",
+      "Address Line 1": "767, DOHS, Phase-1, Malir Cantt, Malir",
+      "Address Line 2": "Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0306-1610666"
+    },
+    {
+      "Company Name": "Geeks Of Kolachi",
+      "Address Line 1": "Suite 702, Dilkhushan Forum, Tariq Road, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2138898770
+    },
+    {
+      "Company Name": "National Institutional Facilitation Technologies (Pvt.) Ltd.",
+      "Address Line 1": "NIFT, 5th Floor, AWT Plaza, I.I. Chundrigar Road",
+      "Address Line 2": "Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3009211522
+    },
+    {
+      "Company Name": "Digital Information Systems (Pvt.) Ltd.",
+      "Address Line 1": "106, Amber Estate, Main Shahra e Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 34325505"
+    },
+    {
+      "Company Name": "Cloud Tenants (Pvt.) Ltd.",
+      "Address Line 1": "Flat No. B-5/4, FL-9/6, Junaid Plaza, Gulshan-E-Iqbal Block 6, Main Rashid Minhas Road.",
+      "Address Line 2": "Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34971995"
+    },
+    {
+      "Company Name": "Regex Dot (Pvt.) Ltd.",
+      "Address Line 1": "Suit#407, 4th Floor, Mashriq Center, Gulshan-e-Iqbal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0309 2838100"
+    },
+    {
+      "Company Name": "Preon Technologies (Pvt.) Ltd.",
+      "Address Line 1": "1D-27, Sector 30, Korangi Industrial Area, Karachi, Pakistan.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 (21)37181888"
+    },
+    {
+      "Company Name": "Diya Interactive Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "D7 Osif Centre, Gulshan - e - Iqbal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134833502
+    },
+    {
+      "Company Name": "Salsoft Technologies (Pvt.) Ltd.",
+      "Address Line 1": "47 Street No 6،, Darul Aman Society PECHS, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0312 1041195"
+    },
+    {
+      "Company Name": "Social Artificial Intelligence (Pvt.) Ltd.",
+      "Address Line 1": "Office No 205A, 2nd floor, Fortune Tower, Shahra-e-Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3082226877
+    },
+    {
+      "Company Name": "Boundless Technologies",
+      "Address Line 1": "Office No 9 Ground Floor Dashtiyar Pride Block 13D Gulshan-e-Iqbal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134817357
+    },
+    {
+      "Company Name": "Vaulsys (Pvt.) Ltd.",
+      "Address Line 1": "3rd floor fitco center 35-C Block 2 PECHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-37240734"
+    },
+    {
+      "Company Name": "Frontier Technology Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Building 3C, Ground Floor, 22nd Commercial Street, DHA Phase 2 (EXT)",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 35894099"
+    },
+    {
+      "Company Name": "Pixus Technology & Software Firm",
+      "Address Line 1": "Office M-66, Plot LA-1, Block 21, Centrum Center, FB Area",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-36337880"
+    },
+    {
+      "Company Name": "Tech Verticks",
+      "Address Line 1": "Plot A 46, Block 4 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923463008534
+    },
+    {
+      "Company Name": "Vivacity Beyond (Pvt.) Ltd.",
+      "Address Line 1": "1D-27, Sector 30, Korangi Industrial Area",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0344-4482650"
+    },
+    {
+      "Company Name": "DigiTechIO",
+      "Address Line 1": "Flat No. F-501, Zainab Plaza, Bock 17, Gulshan-e-Iqbal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3312320102
+    },
+    {
+      "Company Name": "Techworks (Pvt.) Ltd.",
+      "Address Line 1": "OFFICE NO. 209-210, 2ND FLOOR, TARIQ CENTRE, TARIQ ROAD, KARACHI",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923111555524
+    },
+    {
+      "Company Name": "GR-Tech",
+      "Address Line 1": "House No.10, bleak Road, Sunny Side Villas, Civil Lines",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 3888 7358, 021 3889 5281"
+    },
+    {
+      "Company Name": "AIM VIZ",
+      "Address Line 1": "FL-11/1/1, Block-6 Gulshan e Iqbal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34960335"
+    },
+    {
+      "Company Name": "iTribe Solutions",
+      "Address Line 1": "Anum Blessings, Suite 511, FL 5, KUCHS, Shara e Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3370396235
+    },
+    {
+      "Company Name": "Technosys",
+      "Address Line 1": "404, Anum Empire Building, Main Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 3 4325117"
+    },
+    {
+      "Company Name": "Shispare (Pvt.) Ltd.",
+      "Address Line 1": "Plot 51 Jinnah Co Operative Housing Society Off Tipu Sultan Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0345-2431164"
+    },
+    {
+      "Company Name": "ZEPTA Consulting & Technologies (Pvt.) Ltd",
+      "Address Line 1": "7th Floor, Executive Tower, Dolmen Mall, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3455593782
+    },
+    {
+      "Company Name": "Johar Software House",
+      "Address Line 1": "80-A, Block-2, Near Khalid Bin Waleed Road P.E.C.H.S Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134551261
+    },
+    {
+      "Company Name": "FAIR Consulting Pakistan (SMC-Pvt.) Ltd.",
+      "Address Line 1": "Wing 8A, 8th Floor, Fakhri Trade Center, Shahrah-e-Liaquat",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3363558891
+    },
+    {
+      "Company Name": "Asaan Commerce (Pvt.) Ltd.",
+      "Address Line 1": "5th Floor, Aamir Trade Center, Block 2, PECHS,",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3176012169
+    },
+    {
+      "Company Name": "Jaffer Business Systems (Pvt.) Ltd.",
+      "Address Line 1": "Citi Tower, 33-A, Block 6, P.E.C.H.S., Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 111 527 527"
+    },
+    {
+      "Company Name": "Vehicle Tracking (Pvt.) Ltd.",
+      "Address Line 1": "193/N, Blcok 2, PECHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134300811
+    },
+    {
+      "Company Name": "Poulta, INC.",
+      "Address Line 1": "KE 137 Plot # A-43 Gulshan Iqbal Block 13D Baloch Goth Near Noman Complex",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 4970021"
+    },
+    {
+      "Company Name": "Treehouse Exatex (Pvt.) Ltd.",
+      "Address Line 1": "Suite # 207, 2nd Floor, Tariq Center Tariq Road, Block 2, PECHS, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34392007-8"
+    },
+    {
+      "Company Name": "ITANZ Technology (Pvt.) Ltd.",
+      "Address Line 1": "Office 501-502, 5th floor Fayyaz Centre, 3-A، Block A Sindhi Muslim CHS (SMCHS), Karachi, Karachi City, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92(21)111 832 872"
+    },
+    {
+      "Company Name": "Sofstica Solutions",
+      "Address Line 1": "5th Floor, Suite no 508, Fortune Center, Shahrah-e-Faisal, P.E.C.H.S. Block 6 PECHS, Karachi, Sindh",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3363552221
+    },
+    {
+      "Company Name": "Unicon International (Pvt.) Ltd.",
+      "Address Line 1": "PLOT#207 SEC 23 KORANGI IND AREA KHI",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35071161-5"
+    },
+    {
+      "Company Name": "Cloud Venture (Pvt.) Ltd.",
+      "Address Line 1": "Suite # 1101-1104, 11th Floor, Caesars Tower,(National IT Park), Main Shahrah e Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0347-2779429"
+    },
+    {
+      "Company Name": "Techwards",
+      "Address Line 1": "Suite 216, Business Arcade, Shahrha-e-Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923222560081
+    },
+    {
+      "Company Name": "East River (Pvt.) Ltd.",
+      "Address Line 1": "Office# 103, 104 1st Floor Horizon Tower Block 3, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3213660140
+    },
+    {
+      "Company Name": "ZUE (SMC-Pvt.) Ltd.",
+      "Address Line 1": "1st Floor, Building C-12 block 7/8 KCHS Central Commercial area Balouch Colony near maqbool masjid Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2133329280
+    },
+    {
+      "Company Name": "Claims Med",
+      "Address Line 1": "Office 605, Al-Khaleej Tower, Shaheed-e-Millat Road, BMCHS, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134948070
+    },
+    {
+      "Company Name": "GENTEC",
+      "Address Line 1": "114 & 806 anum state building baloch colony",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34167766-70"
+    },
+    {
+      "Company Name": "AnaConEx Solutions (Pvt.) Ltd.",
+      "Address Line 1": "1/F, Bahria Complex III, MT Khan Road, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923338233993
+    },
+    {
+      "Company Name": "Inspurate Business Services",
+      "Address Line 1": "C-6-C Saadi Lane 2, Khayaban-e-Ittihad, DHA Phase VII",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92-21 35381976"
+    },
+    {
+      "Company Name": "Wamtsol (Pvt.) Ltd.",
+      "Address Line 1": "54/D, Ferozabad colony, Unit 12, Latifabad, Hyderabad",
+      "City": "Hyderabad",
+      "Region": "South",
+      "Phone": 3032251852
+    },
+    {
+      "Company Name": "Bitswits (Pvt.) Ltd.",
+      "Address Line 1": "Suit # 1213, 12th. Floor, Caesar's Tower, Shahrah-e- Faisal, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-32785034"
+    },
+    {
+      "Company Name": "MMC",
+      "Address Line 1": "A-13, Al-hilal Society",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923111555053
+    },
+    {
+      "Company Name": "Hul Hub (Pvt.) Ltd.",
+      "Address Line 1": "Officer No. 1601, 16th Floor, Al-Tijarah Centre, Plot No. 32-1-A, Block 6, PECHS, Main Shahrah-e-Faisal Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-37136600"
+    },
+    {
+      "Company Name": "PayPro (Pvt.) Ltd.",
+      "Address Line 1": "Plot 1C, Tariq Center, Tariq Road, PECHS Block 2, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134327461
+    },
+    {
+      "Company Name": "Authentik",
+      "Address Line 1": "3rd Floor, Mahmood Center, BC-11, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2135378443
+    },
+    {
+      "Company Name": "The Code It Company",
+      "Address Line 1": "204, Block A, Smchs, behind pso pump off sharaefaisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923331325684
+    },
+    {
+      "Company Name": "Rex D (Pvt.) Ltd.",
+      "Address Line 1": "Office No. 605-606, 6th Floor, Al Tijarah Center, Shahrah-e-Faisal Road, PECHS, Block 6, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-37172000"
+    },
+    {
+      "Company Name": "VeeMed Technologies (Pvt.) Ltd.",
+      "Address Line 1": "1401, Vital Foakh Tower, Shahra e Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 346 2924166"
+    },
+    {
+      "Company Name": "Microlinks (Pvt.) Ltd.",
+      "Address Line 1": "404, Business Forum, 358 Khalid Bin Waleed Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34397313"
+    },
+    {
+      "Company Name": "KSH Solution (BreakThru)",
+      "Address Line 1": "Suite# 104, 1st Floor, Business Center 19-A/1, P.E.C.H.S, Block# 6, Main, Shahrah-e-Faisal, Block 6 PECHS, Karachi, Karachi City, Sindh 75400",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 34324434"
+    },
+    {
+      "Company Name": "Ideal Autonetics (Pvt.) Ltd.",
+      "Address Line 1": "#4, 34-D, SEHAR LANE-4, DHA, KARACHI",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3008247833
+    },
+    {
+      "Company Name": "Byte Tech Consulting (Pvt.) Ltd.",
+      "Address Line 1": "Plot No B-2/18/11, 2nd Floor, Near Khizra Masjid, Railway Housing Society, Auto Bhan Road, Latifabad No. 3, Hyderabad",
+      "City": "Hyderabad",
+      "Region": "South",
+      "Phone": "022-3411104"
+    },
+    {
+      "Company Name": "XOVO TECH",
+      "Address Line 1": "A 325 Block D, North Nazimabad, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3343752271
+    },
+    {
+      "Company Name": "Arthur Lawrence Business & IT Services (Pvt.) Ltd.",
+      "Address Line 1": "21st Floor, Bahria Town Tower, Tariq Road, PECHS, Block-2, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 333 209 7096"
+    },
+    {
+      "Company Name": "Bela Tech (SMC-Pvt.) Ltd.",
+      "Address Line 1": "M-3 Bldg 10C Street 11 Badar Comm Area Ph V Ext DHA, Karachi\r\nMezzanine Floor, 5-C, Khayaban-e-Ittehad, Phase VII, Karachi (For certificate)",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": -2392248
+    },
+    {
+      "Company Name": "SMH Global Services (Pvt.) Ltd.",
+      "Address Line 1": "Mezzanine 01, Plot C-3, Jami Commercial, Street 11, DHA Phase 7, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": -8243062
+    },
+    {
+      "Company Name": "Xynotech Systems",
+      "Address Line 1": "B-112, Block-6, Gulshan-e-Iqbal, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34982458"
+    },
+    {
+      "Company Name": "Unit-A Technologies (Pvt.) Ltd.",
+      "Address Line 1": "43-H/III, Unit-A, Block 6, Off Razi Road, P.E.C.H.S., Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 21 34520795-6"
+    },
+    {
+      "Company Name": "Q-Solutions Technology Services",
+      "Address Line 1": "63/4B Fakhri Trade Center, Shara-e-Liaquat, Karachi 74200",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 92322538037
+    },
+    {
+      "Company Name": "Befiler (Pvt.) Ltd.",
+      "Address Line 1": "18 F Block 6 PECHS Shahra-e-Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2138892069
+    },
+    {
+      "Company Name": "International Technology Mission",
+      "Address Line 1": "Office no 806-807, 8th floor, ceasar tower, main shara e faisal, Opp Ayesha Bawani, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3003012285
+    },
+    {
+      "Company Name": "Texitech",
+      "Address Line 1": "The Plaza – Office# 204, 2nd Floor, Plot# G-7, Block 9, Scheme 5, Clifton, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": -35308552
+    },
+    {
+      "Company Name": "Geeks Root",
+      "Address Line 1": "Suit# 103, Khyyam Chamber, P.E.C.H.S, Block \"2\", Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0333 2763622"
+    },
+    {
+      "Company Name": "Outsource in PK (Pvt.) Ltd.",
+      "Address Line 1": "Haryani Square, Building No 21C, Bukhari Commercial Lane 20, Phase-VI, DHA, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35846066"
+    },
+    {
+      "Company Name": "AS Cloud Technologies (Pvt.) Ltd.",
+      "Address Line 1": "256, 2ND FLOOR, SAMAMA SHOPPING COMPLEX, UNIVERSITY ROAD, KARACHI",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923332222123
+    },
+    {
+      "Company Name": "QBS CO (SMC-Pvt.) Ltd.",
+      "Address Line 1": "V30/1, 17th Street East, DHA Phase 1, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3421399429
+    },
+    {
+      "Company Name": "Innovador Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Suite No. 208, 2nd floor, Progressive Center, PECHS -6, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 306 4666823"
+    },
+    {
+      "Company Name": "Tekrevol",
+      "Address Line 1": "Tekrevol, 7 FL, TH, 3, Block 3 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh 7565",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34832500"
+    },
+    {
+      "Company Name": "Krystosoft (Pvt.) Ltd.",
+      "Address Line 1": "Ground Floor G&T Tower, 18 Beaumont Rd., 10 Civil Lines, near PIDC, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923012089279
+    },
+    {
+      "Company Name": "Sowaan (Pvt.) Ltd.",
+      "Address Line 1": "801/802, Mehdi Tower, Shahrah-e-Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134303750
+    },
+    {
+      "Company Name": "Digi Trends (Pvt.) Ltd.",
+      "Address Line 1": "Bangalow # 463 B Adamjee Nagar, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134376262
+    },
+    {
+      "Company Name": "Zenkoders",
+      "Address Line 1": "Office #3, Mezzanine Floor, Shaheen View, Shahrah-e-Faisal Rd, Block-6 Karachi, 75400, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 922134542114
+    },
+    {
+      "Company Name": "Sherwani IT Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Corporate Office # S-123, Second Floor, City Center, Shahrah-e- Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0345 0403037"
+    },
+    {
+      "Company Name": "DeliveryDevs (Pvt.) Ltd.",
+      "Address Line 1": "10-B lalazar MT Khan Road, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3243245692
+    },
+    {
+      "Company Name": "Datasoft Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Office # 803-804-805, 8th Floor Dilkusha Forum, Block 3, Cooperative Housing Society, Tariq Road, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 34551351-52"
+    },
+    {
+      "Company Name": "Createchx",
+      "Address Line 1": "B-69 Block 6 Gulshan-e-Iqbal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923310069690
+    },
+    {
+      "Company Name": "Autonomous",
+      "Address Line 1": "Building#54C, Office#404, Al-murtaza commercial lane 2, DHA Phase 8, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 16043608733
+    },
+    {
+      "Company Name": "Denovers",
+      "Address Line 1": "Suite no 1001, Dilkusha Forum, Main Tariq Road, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923122381468
+    },
+    {
+      "Company Name": "Vurke Inc (Pvt.) Ltd.",
+      "Address Line 1": "24/1, 7th Gizri Lane, Phase IV DHA Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35168112"
+    },
+    {
+      "Company Name": "IT Knocks (Pvt.) Ltd.",
+      "Address Line 1": "S#52, 5th Floor, RJ Shopping Mall, Main Rashid Minhas Road, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3002426602
+    },
+    {
+      "Company Name": "Source Code Technologies",
+      "Address Line 1": "502/503 Business Avenue, Shahrahe Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 33376246"
+    },
+    {
+      "Company Name": "Carpe Diem",
+      "Address Line 1": "Plot # 35, Sector 28, Korangi Industrial Area, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3422224888
+    },
+    {
+      "Company Name": "Mazik Pakistan",
+      "Address Line 1": "Suite # 1005, 10th Floor, Caesars Tower main Shahrah-e-Faisal, Opposite to Aisha Bawany Academy, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-32792118-20"
+    },
+    {
+      "Company Name": "Ambsan Technologies (Pvt.) Ltd.",
+      "Address Line 1": "152 / F , P.E.C.H.S Block #2 Khalid Bin Walid Road Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34554663"
+    },
+    {
+      "Company Name": "AA Studio",
+      "Address Line 1": "Office No.1101,11th Floor, Caesars Tower, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3343548333
+    },
+    {
+      "Company Name": "Tech Sirat Technologies (Pvt.) Ltd.",
+      "Address Line 1": "Office # 6 & 6a, 4th Floor Dean Arcade Block 8 Clifton Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0213-5834471-3"
+    },
+    {
+      "Company Name": "Fame iTech",
+      "Address Line 1": "Office No.214,The Plaza, 2 Sword, Clifton, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35308703"
+    },
+    {
+      "Company Name": "Thinked (Pvt.) Ltd.",
+      "Address Line 1": "Suite No. B-505, 5th Floor, Tower B, Fortune Towers, Main Shahrah-e-Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34380052"
+    },
+    {
+      "Company Name": "Quad Labs (Pvt.) Ltd.",
+      "Address Line 1": "Plot # 176A, SMCHS, Block A, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3222288750
+    },
+    {
+      "Company Name": "Nubit Software (Pvt.) Ltd.",
+      "Address Line 1": "Suite 208-209 New PSX Building, Stock Exchange Road, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2132428197
+    },
+    {
+      "Company Name": "Aspire HR (Pvt.) Ltd.",
+      "Address Line 1": "Suite # 103, Block A, Sea Breeze Plaza, KCB, Main Shahrah -e- Faisal, Karachi, Pakistan.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": -32802776
+    },
+    {
+      "Company Name": "Objectual Systems Ltd.",
+      "Address Line 1": "Plot No G1, 73-J, Block 2, PECHS, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3001794141
+    },
+    {
+      "Company Name": "Telecard Limited",
+      "Address Line 1": "10 Kh. Roomi, Block-5, Clifton, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 9221111222123
+    },
+    {
+      "Company Name": "Design Circle",
+      "Address Line 1": "Suite # 02, Ground floor, Block C, Five Star Luxury Apartment, Block 14, Gulshan-e-Iqbal, Karachi, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3332225530
+    },
+    {
+      "Company Name": "Gaming Doctrine (SMC-Pvt.) Ltd.",
+      "Address Line 1": "D-7, Parveen Building, Mezzanine Floor, Shaheed e Millat Road, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0213-4320707"
+    },
+    {
+      "Company Name": "Hub360 Solutions (Pvt.) Ltd.",
+      "Address Line 1": "503,502,801 Dilkusha Forums, Tariq Road, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": -37443632
+    },
+    {
+      "Company Name": "TDF - The Design Firm",
+      "Address Line 1": "Y405, al habib arcade, teen talwar, clifton, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3030808833
+    },
+    {
+      "Company Name": "Inaequo Solutions",
+      "Address Line 1": "Office No. 507-508, 5th Floor, Sharjah Trade Centre, New Challi, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2132417273
+    },
+    {
+      "Company Name": "DD Global (Pvt.) Ltd.",
+      "Address Line 1": "C-158/1 Block 9 Gulshan-E-Iqbal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134973529
+    },
+    {
+      "Company Name": "Digipersona (Pvt.) Ltd.",
+      "Address Line 1": "Suite # 101 Anam Arcade Building # 14-C South Park Avenue Phase 2 extention DHA, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2135393818
+    },
+    {
+      "Company Name": "Xloop Digital Services (Pvt.) Ltd.",
+      "Address Line 1": "Marine Tower, Plot # 9 Com. Block 4 Clifton, Karachi, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3149922222
+    },
+    {
+      "Company Name": "Intrapreneur",
+      "Address Line 1": "252, Block-B, Latifabad No. 7, Hyderabad",
+      "City": "Hyderabad",
+      "Region": "South",
+      "Phone": "0223-408288"
+    },
+    {
+      "Company Name": "Dimensional Sys",
+      "Address Line 1": "Suite #311 Noor Trade Center Gulshan-e-Iqbal Block 13-A University Road Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923343384788
+    },
+    {
+      "Company Name": "Futurealiti",
+      "Address Line 1": "115 B, Block 2 PECHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923092221104
+    },
+    {
+      "Company Name": "The Solution 360",
+      "Address Line 1": "SUITE 908, PROGRESSIVE SQUARE, PECHS BLOCK 6, MAIN SHAHRAH-E-FAISAL",
+      "City": "KARACHI",
+      "Region": "South",
+      "Phone": 3302247775
+    },
+    {
+      "Company Name": "HashOne Digital (Pvt.) Ltd.",
+      "Address Line 1": "Office 201, 2nd floor, Business Arcade, Main University Road, Opp. Askari Park",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0333 2283930"
+    },
+    {
+      "Company Name": "UHF Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Office # 704, 7th Floor, Anum Estate Building, Shahrah-e-Faisal, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(021)34322118"
+    },
+    {
+      "Company Name": "Net2Apps",
+      "Address Line 1": "Plot No. C-5, Autobahn Road, Front of outfitters Unit No. 2, Latifabad Hyderabad",
+      "City": "Hyderabad Sindh",
+      "Region": "South",
+      "Phone": 3332785440
+    },
+    {
+      "Company Name": "CodeBot Technologies",
+      "Address Line 1": "H.No A/15 Street 04 Mubarak housing society hyderabad 71000 pakistan",
+      "City": "Hyderabad",
+      "Region": "South",
+      "Phone": 3332785440
+    },
+    {
+      "Company Name": "Minerva Research Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Bungalow No 7/16, DMMCHS, Block-3, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-33384554"
+    },
+    {
+      "Company Name": "Digital Auxilius (Pvt.) Ltd.",
+      "Address Line 1": "BUNGALOW NO.7/16 DMMCHS BLOCK 3, KARACHI",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-33384554"
+    },
+    {
+      "Company Name": "YourProcs",
+      "Address Line 1": "201/G,25-26, Saddar, Hyderabad cantt",
+      "City": "Hyderabad",
+      "Region": "South",
+      "Phone": 3332785440
+    },
+    {
+      "Company Name": "Decibel BPO (Pvt.) Ltd.",
+      "Address Line 1": "Office 405, 4th Floor, Fortune Center, Shahrah-e-Faisal, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 312 7474567"
+    },
+    {
+      "Company Name": "Awan Distribution (Pvt.) Ltd.",
+      "Address Line 1": "OFFICE 1310, 13TH FLOOR, CAESARS TOWER, SHAHRAH E FAISAL",
+      "City": "KARACHI",
+      "Region": "South",
+      "Phone": "+92 302 8267656"
+    },
+    {
+      "Company Name": "Panda Work Global (Pvt.) Ltd.",
+      "Address Line 1": "605, Hanifa Heavon, II-B5, Nazimabad # 2, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3139293941
+    },
+    {
+      "Company Name": "Cartz Link",
+      "Address Line 1": "Mezzanine Floor 23-C, Lane 8, Sehar Comm Area",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3212353525
+    },
+    {
+      "Company Name": "Emerging Software",
+      "Address Line 1": "20 Civic center near board office latifabad no 9",
+      "City": "Hyderabad",
+      "Region": "South",
+      "Phone": 3213043665
+    },
+    {
+      "Company Name": "Bizvaex Consulting",
+      "Address Line 1": "Mezzanine Floor, United Castle Apartment, Block10, Gulshan-E-Iqbal, Karachi,75300",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3218256890
+    },
+    {
+      "Company Name": "Interactive Media",
+      "Address Line 1": "Office No. 6, 2nd Floor, Aman Chamber, KCHUS, Shaheed Millat Road, Karachi 75350, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134325656
+    },
+    {
+      "Company Name": "Ashrei Tech (Pvt.) Ltd.",
+      "Address Line 1": "83-C Al-Murtaza Commercial, Lane 3, DHA Phase 8 Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": -35249580
+    },
+    {
+      "Company Name": "Toobitech (Pvt.) Ltd.",
+      "Address Line 1": "509 5th FLOOR CAESSER TOWER SHARA-E-FAISAL",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2132791021
+    },
+    {
+      "Company Name": "Digitech Infra Associates",
+      "Address Line 1": "FL-40, 3rd floor, Gulshan e Jamal, Rashid Minhas Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134664036
+    },
+    {
+      "Company Name": "Halcon Systems (Pvt.) Ltd.",
+      "Address Line 1": "61-E, 7th Commercial Street, Jami Commercial Area, DHA Phase 7",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2138892243
+    },
+    {
+      "Company Name": "IG Square Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "Office # 112,1st Floor, Plot No. G-20, The Forum, Khayaban-e-Jami, Block 9, Kehkashan,Clifton, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 922135303672
+    },
+    {
+      "Company Name": "Ingenious Communications",
+      "Address Line 1": "107-C, Jami Commercial Street 11, Phase 7, DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3333066703
+    },
+    {
+      "Company Name": "Awesome Technologies (Pvt) Ltd",
+      "Address Line 1": "Park Avenue Building, 5th Floor, Office # 511, Shahrah-e- Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134324300
+    },
+    {
+      "Company Name": "Mac Care",
+      "Address Line 1": "1st Floor, Building, Mac Care, 15-C Ittehad Lane 1, Ittehad Commercial Area Phase 6 Defence Housing Authority, Karachi, Karachi City, Sindh",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3028225603
+    },
+    {
+      "Company Name": "MicGlo Consultancy",
+      "Address Line 1": "3/3- 3/4-3 Sheet 20 Model Colony Karachi 75100",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3228820498
+    },
+    {
+      "Company Name": "Pacific Solutions",
+      "Address Line 1": "Dashtiyar Chamber , Block 13/C , Gulshan e iqbal , Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-37226436"
+    },
+    {
+      "Company Name": "Digicop Solutions",
+      "Address Line 1": "UP More , Rida Cosmectics , besides Moin Khan Ground, UP more , New Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3323392656
+    },
+    {
+      "Company Name": "Pakistan Automation",
+      "Address Line 1": "Suit No. 804, Eight Floor, Noor Trade center, Plot # B-27, Block 13-A",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 336 9753046"
+    },
+    {
+      "Company Name": "Liquid Technologies",
+      "Address Line 1": "Tabani Corp Tower, 1-E 9th Zamzama Ln, Phase V Zamzama Commercial Area Defence V Defence Housing Authority, Karachi, Karachi City, Sindh 75600, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 18325790715
+    },
+    {
+      "Company Name": "Apex Web Studios",
+      "Address Line 1": "A4, Ruffi cottages, Block 13D-1 Block 13 D 1 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3113211939
+    },
+    {
+      "Company Name": "Lambda Theta",
+      "Address Line 1": "C-93 Block 13, Gulistan e Jauhar",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 922134011685
+    },
+    {
+      "Company Name": "Linuro Systems (Pvt.) Ltd.",
+      "Address Line 1": "Showroom # 10 Progressive Center, Shahrah-e-Faisal, Karachi 75400",
+      "City": "Karachu",
+      "Region": "South",
+      "Phone": "021 3432 4116"
+    },
+    {
+      "Company Name": "Stryvve Training & Development LLP",
+      "Address Line 1": "Suite 717, Mashriq Center, Block-14, Gulishan-e-Iqbal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3452080997
+    },
+    {
+      "Company Name": "Starcom Technologies (Pvt.) Ltd.",
+      "Address Line 1": "128-E G-7/1 Luqman Hakeem Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 922135661550
+    },
+    {
+      "Company Name": "S2 Consulting Services (Pvt.) Ltd.",
+      "Address Line 1": "303, Progressive Center, Shahrah-e-Faisal Rd, Pakistan Employees Co-Operative Housing Society Block 6 PECHS, Karachi, Karachi City, Sindh 75400",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021 34559046-7"
+    },
+    {
+      "Company Name": "BRB Technology",
+      "Address Line 1": "Office No. C, 42 Bait-Ul-Mukarram Rd, opposite Hakeem Saeed Park، Block 8 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh 75300",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0326-8048692"
+    },
+    {
+      "Company Name": "KAISPE",
+      "Address Line 1": "Suite#213 Sumya Business Avenue, MACHS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134326085
+    },
+    {
+      "Company Name": "Trace Pakistan",
+      "Address Line 1": "2nd Floor, Inside Four Season Banquet Compound, Main Rashid Minhas Road, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134811135
+    },
+    {
+      "Company Name": "Fame Business Solutions (Pvt.) Ltd.",
+      "Address Line 1": "214, The Plaza, Clifton, Block 9, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 213508703
+    },
+    {
+      "Company Name": "AGS Solutions",
+      "Address Line 1": "3/L, Mubarak Road Block 6, PECHS Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3432893065
+    },
+    {
+      "Company Name": "Oware Technologies (Pvt.) Ltd.",
+      "Address Line 1": "A501, 5th Floor, Fortune Towers, PECHS Block6, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 310 6239953"
+    },
+    {
+      "Company Name": "Tilism Technologies (Pvt.) Ltd.",
+      "Address Line 1": "Technology Park 10th Floor Shahrah e Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3453158758
+    },
+    {
+      "Company Name": "Marcell Technologies (Pvt.) Ltd.",
+      "Address Line 1": "42-F, Block 6 PECHS, Karachi, 75100",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(021) 37235547"
+    },
+    {
+      "Company Name": "CloudJunction (Pvt.) Ltd.",
+      "Address Line 1": "166-E-Block 3, PECHS karachi Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134556205
+    },
+    {
+      "Company Name": "Fortline (Pvt.) Ltd.",
+      "Address Line 1": "Office # 403, 4th Floor, Mehdi Tower, 115/A, S.M.C.H.S., Shahrah-e-Faisal, Karachi 75400",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 21111992999
+    },
+    {
+      "Company Name": "Tech6 Solutions (Pvt.) Ltd.",
+      "Address Line 1": "Office No 317, 3rd Floor, The Forum Block 9, Clifton Karachi Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 922135834455
+    },
+    {
+      "Company Name": "Techtrix System",
+      "Address Line 1": "G-18/6, KDA scheme#5, clifton Block8 karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-32275951-54"
+    },
+    {
+      "Company Name": "Stallyons Technologies",
+      "Address Line 1": "Suite #8, 4th Floor, Dar ul Furqan Apartments, Gulshan-e-Iqbal, Block 13-B, University Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134832294
+    },
+    {
+      "Company Name": "Bleed AI",
+      "Address Line 1": "Office #301, 3rd Floor, Plot NO.80-C, Main Khayaban-e-Jami, Phase-VII, DHA.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3142384370
+    },
+    {
+      "Company Name": "NDS Technologies",
+      "Address Line 1": "12 SASI TOWN HOUSES CIVIL LINES ABDULLAH HAROON ROAD",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "022135220346-47-48"
+    },
+    {
+      "Company Name": "Security Pact",
+      "Address Line 1": "Plot9G,Block-6 PECHS, Main Shahrah e Faisal, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "02132803214-5"
+    },
+    {
+      "Company Name": "Xgen Technologies (Pvt.) Ltd.",
+      "Address Line 1": "Plot 13C, Stadium Commercial Lane 2, DHA Phase V, Karachi South",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-35342222"
+    },
+    {
+      "Company Name": "RA Technologies",
+      "Address Line 1": "43-M, 43rd Street, P.E.C.H.S Block-6.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2134324010
+    },
+    {
+      "Company Name": "The Synergates Business Solutions (Pvt.) Ltd.",
+      "Address Line 1": "st Floor, Najeeb Center, 172-B Tariq Rd, Pakistan Employees Co-Operative Housing Society Block 2 PECHS, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923442074966
+    },
+    {
+      "Company Name": "Ornesol (Pvt.) Ltd.",
+      "Address Line 1": "Office # 106, Iqra University IT Park, Shaheed-e-Millat Road, Defense View, Phase-II, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3183788114
+    },
+    {
+      "Company Name": "Virtuosoft (Pvt.) Ltd.",
+      "Address Line 1": "C-35 1st Floor, Gulshan e Iqbal Block 10-A, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3462728919
+    },
+    {
+      "Company Name": "Techoid.co",
+      "Address Line 1": "3rd floor, Osif Center, Office # C, 2 Main University Rd, Block 13 A Gulshan-e-Iqbal, Karachi, 75300",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923110206987
+    },
+    {
+      "Company Name": "V2F Solutions (SMC-Pvt.) Ltd.",
+      "Address Line 1": "14th floor, BRR Tower, I.I Chundrigar Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 21 32640346"
+    },
+    {
+      "Company Name": "Global Tech Solutions (Pvt.) Ltd.",
+      "Address Line 1": "First floor, FL-4, 18 Rashid Minhas Road near Meezan Bank, Block 5, Gulshan-e-iqbal Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923153295022
+    },
+    {
+      "Company Name": "AKS iQ (Pvt.) Ltd.",
+      "Address Line 1": "Suite# 808, Balad Trade Center II, Bahadur Yar Jung Housing Society",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 21 38890588"
+    },
+    {
+      "Company Name": "Tech Ventures",
+      "Address Line 1": "A1901 Saima Trade Towers II Chundrigar Road Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923219244742
+    },
+    {
+      "Company Name": "Avrioc Technologies Pakistan. (Pvt.) Ltd.",
+      "Address Line 1": "26-C, Muslim Commercial Street No.02, Phase-VI, DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 35155788
+    },
+    {
+      "Company Name": "E-Commerce (Pvt.) Ltd.",
+      "Address Line 1": "08 Kokan Society Dr. Azhar Hussain Road off Shaheed e Millat Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2138709970
+    },
+    {
+      "Company Name": "Viral Vind Technologies",
+      "Address Line 1": "Suite # 204 Roshan heaven Shaheed E millat road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923218902711
+    },
+    {
+      "Company Name": "Tresmark (Pvt.) Ltd.",
+      "Address Line 1": "Office 202, 2nd Floor, Clifton Diamond, Clifton Block-4, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3008287667
+    },
+    {
+      "Company Name": "Al Rafay Consulting LLC",
+      "Address Line 1": "Office # 705, 7th Floor, Emarah Suites, SMCHS Block A Opposite FTC, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "001 (630) 946-7863"
+    },
+    {
+      "Company Name": "Xcl Technologies",
+      "Address Line 1": "Opposite Defence Park, Defence Hyderabad",
+      "City": "Hyderabad",
+      "Region": "South",
+      "Phone": 3323549993
+    },
+    {
+      "Company Name": "FullStop",
+      "Address Line 1": "A303/304 Al-Mustafa Trade Center, Tarqi Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3323095891
+    },
+    {
+      "Company Name": "Brandigo",
+      "Address Line 1": "A-363, Block D, North Nazimabad",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-36720354"
+    },
+    {
+      "Company Name": "Avancera Solution LLP",
+      "Address Line 1": "B-357 COUNTRY CLUB RD Gulshan e iqbal block 6",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3000074489
+    },
+    {
+      "Company Name": "Quantum Qoders",
+      "Address Line 1": "F-39/3, Block-8, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3222665838
+    },
+    {
+      "Company Name": "Kistpay (Pvt.) Ltd.",
+      "Address Line 1": "Building # 29-C, Ground Floor, Sunset Lane 1, Phase 2 Ext, DHA",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": -373
+    },
+    {
+      "Company Name": "All Brands",
+      "Address Line 1": "Shop-63, Ground Floor, Crown Shopping Center, 14-B, North Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3331291994
+    },
+    {
+      "Company Name": "Auriga Solutions",
+      "Address Line 1": "121-B, Sindhi Muslim Cooperative Housing Society, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-34553065"
+    },
+    {
+      "Company Name": "Symmetry Group Limited",
+      "Address Line 1": "Plot No. 56-A, Street 2, Khalid Commercial Area Phase Ext Defence Housing Authority, Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2135171991
+    },
+    {
+      "Company Name": "Icreativez Technologies (Pvt.) Ltd.",
+      "Address Line 1": "Suite 1403 Caesar's Tower, Opposite Aisha Bawani Academy, Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3330007008
+    },
+    {
+      "Company Name": "Digital Custodian Company Limited",
+      "Address Line 1": "Perdesi House, Old Queens Road, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "021-32430485"
+    },
+    {
+      "Company Name": "360factors (Pvt.) Ltd.",
+      "Address Line 1": "43 B/III, 43rd Street (lane of Gerry’s UK visa application center) Block 6, PECHS, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 21 34324346-48"
+    },
+    {
+      "Company Name": "Petrol Solutions",
+      "Address Line 1": "Head Office: 230 NASTP Karachi Main Shahra e faisal, Faisal Cantonment Karachi Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 3482 3362"
+    },
+    {
+      "Company Name": "HumanTek",
+      "Address Line 1": "D-95 BLOCK B NORTH NAZIMABAD",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3343491292
+    },
+    {
+      "Company Name": "Digital Platform Solutions",
+      "Address Line 1": "Suit E10, Descon Plaza PECHS Karachi",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 922133481723
+    },
+    {
+      "Company Name": "Covalent (Pvt.) Ltd.",
+      "Address Line 1": "6th Floor, Bahria Complex 4, Gizri Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 21111111974
+    },
+    {
+      "Company Name": "Novasecuris Tech (Pvt.) Ltd.",
+      "Address Line 1": "Office A-122, Long Live Banglows, Block 17, Gulistan-e-Jauhar, Karachi, Pakistan.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "(021) 34014666"
+    },
+    {
+      "Company Name": "Digital Hyperlinks (Pvt.) Ltd.",
+      "Address Line 1": "SUITE NO. 2003, 2ND FLOOR, PARVEEN BUILDING, D-7, SHAHEED-E-MILLAT ROAD, BANGALORE TOWN, BLOCK-A, KARACHI, Gulshan Town, Karachi East, Sindh, Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3343653652
+    },
+    {
+      "Company Name": "Align Business Systems (Pvt.) Ltd.",
+      "Address Line 1": "Suite # 404, 4th Floor Imperial Trade Tower, 68-C, 7th Street, Jami Commercial, Phase VIL, DHA, Karachi ,Pakistan",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3313737613
+    },
+    {
+      "Company Name": "Logiciel (Pvt.) Ltd.",
+      "Address Line 1": "37-G, PECHS BLOCK-6",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3072228403
+    },
+    {
+      "Company Name": "GBM Pakistan (Pvt.) Ltd.",
+      "Address Line 1": "1st Floor, Dadex House, 34-A/1 PECHS Block 6, Shahrah-e-Faisal",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "+92 21 3432 3801-12"
+    },
+    {
+      "Company Name": "INNOVATEEDGE TECHNOLOGY AND LAB (SMC-Pvt.) Ltd.",
+      "Address Line 1": "Innovation and Technology Lab, Main Road, opposite steel town police Station",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3143602200
+    },
+    {
+      "Company Name": "4 Secure Technology (Pvt.) Ltd.",
+      "Address Line 1": "A-68, Centre Point, Industrial Area, Block-21, Gulshan-e-Iqbal, Karachi.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923343544656
+    },
+    {
+      "Company Name": "Nitrogen",
+      "Address Line 1": "14-C, Lane 1, Bukhari Commercial Area Defense Phase IV Karachi. 75500.",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0331-5100061"
+    },
+    {
+      "Company Name": "OSITS (Pvt.) Ltd.",
+      "Address Line 1": "Office# 309, Clifton Center, Clifton",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": "0213 5293 284-86"
+    },
+    {
+      "Company Name": "Apprise Cyber (Pvt.) Ltd.",
+      "Address Line 1": "FL-12, CENTRAL GOVERNMENT HOUSING SOCIETY 1, Karachi, 75300",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3312262274
+    },
+    {
+      "Company Name": "H3 Technologies",
+      "Address Line 1": "4th Floor, Gulistan Chamber, Main ShahreFaisal Near TPS",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3151231016
+    },
+    {
+      "Company Name": "RA Soft Solutions & Information Technology (Inc.)",
+      "Address Line 1": "B-80, Block 13D",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 3008235867
+    },
+    {
+      "Company Name": "Mindflare Technologies (SMC-Pvt.) Ltd.",
+      "Address Line 1": "A-708, Saima Trade Towers, I.I Chundrigar Road",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 2132214451
+    },
+    {
+      "Company Name": "HRSG Digital (Pvt.) Ltd.",
+      "Address Line 1": "HRSG House 46-D Street, 46 Off Shahrah-e-Faisal Rd, Block 6 P.E.C.H.S., Karachi, Karachi City, Sindh 75400",
+      "City": "Karachi",
+      "Region": "South",
+      "Phone": 923333186635
+    }
+  ]
+}
