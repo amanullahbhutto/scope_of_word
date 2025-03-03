@@ -32,8 +32,10 @@ class ProductController extends Controller
     // Store a newly created product in the database
     public function store(Request $request)
     {
+        
         $request->validate([
             'name' => 'required',
+            'slug' => 'required',
             'description' => 'nullable',
             'image' => 'nullable|image',
             'price' => 'required|numeric',

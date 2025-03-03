@@ -3,7 +3,7 @@
 <div class="container">
     <h2>Edit Team Member</h2>
 
-    @if ($errors->any())
+    {{--  @if ($errors->any())
         <div class="alert alert-danger">
             <ul>
                 @foreach ($errors->all() as $error)
@@ -11,9 +11,9 @@
                 @endforeach
             </ul>
         </div>
-    @endif
+    @endif  --}}
 
-    <form action="{{ route('management.team.update', $managementTeam->id) }}" method="POST">
+    <form action="{{ route('management-teams.update', $managementTeam->id) }}" method="POST">
         @csrf
         @method('PUT')
         <div class="form-group">
@@ -29,7 +29,7 @@
             <input type="email" name="email" class="form-control" value="{{ $managementTeam->email }}" required>
         </div>
         <button type="submit" class="btn btn-success">Update</button>
-        <a href="{{ route('management.team.index') }}" class="btn btn-secondary">Cancel</a>
+        <a href="{{ route('management-teams.index') }}" class="btn btn-secondary">Cancel</a>
     </form>
 </div>
 @endsection

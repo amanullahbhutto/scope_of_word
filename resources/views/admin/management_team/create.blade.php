@@ -14,7 +14,7 @@
         </div>
     @endif
 
-    <form action="{{ route('management.team.store') }}" method="POST">
+    <form action="{{ route('management-teams.store') }}" method="POST">
         @csrf
         <div class="form-group">
             <label>Name:</label>
@@ -29,7 +29,7 @@
             <input type="email" name="email" class="form-control" required>
         </div>
         <button type="submit" class="btn btn-success">Save</button>
-        <a href="{{ route('management.team.index') }}" class="btn btn-secondary">Cancel</a>
+        <a href="{{ route('management-teams.index') }}" class="btn btn-secondary">Cancel</a>
     </form>
 </div>
 @endsection

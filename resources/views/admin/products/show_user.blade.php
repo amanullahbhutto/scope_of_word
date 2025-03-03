@@ -19,7 +19,8 @@
                         @endif
                         </div>
                         <div class="col-md-6">
-                            <p class="lead mt-3 mt-md-0">{{ $product->description }}</p>
+                            <div> <p class="lead mt-3 mt-md-0"> <strong>Slug</strong> {{ $product->slug }}</p></div>
+                            <p class="lead mt-3 mt-md-0"> <strong>Description</strong> {{ $product->description }}</p>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item d-flex justify-content-between align-items-center">
                                     <strong>Price:</strong>
@@ -43,3 +44,35 @@
     </div>
 </div>
 @endsection
+
+@section('scripts')
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $("#name").on('change', function() {
+            var $input = $(this);
+            $("button[type=submit]").prop('disabled', true);
+
+            $.ajax({
+                url: "{{ route('getSlug') }}", 
+                type: "GET",
+                data: { title: $input.val() },
+                dataType: "json",
+                success: function(response) {
+                    $("button[type=submit]").prop('disabled', false);
+                    if (response.status) {
+                        $("#slug").val(response.slug);
+                    }
+                },
+                error: function(xhr) {
+                    console.error(xhr.responseText);
+                    $("button[type=submit]").prop('disabled', false);
+                }
+            });
+        });
+    });
+</script>
+
+
+@endsection
+

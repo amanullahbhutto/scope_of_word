@@ -18,6 +18,12 @@ class ManagementTeamController extends Controller
         return view('admin.management_team.create');
     }
 
+    public function show($id)
+    {
+        $member = ManagementTeam::findOrFail($id);
+        return view('admin.management_team.show', compact('member'));
+    }
+
     public function store(Request $request)
     {
         $request->validate([
@@ -28,7 +34,7 @@ class ManagementTeamController extends Controller
 
         ManagementTeam::create($request->all());
 
-        return redirect()->route('management.team.index')->with('success', 'Team member added successfully.');
+        return redirect()->route('management-teams.index')->with('success', 'Team member added successfully.');
     }
 
     public function edit(ManagementTeam $managementTeam)
@@ -46,13 +52,13 @@ class ManagementTeamController extends Controller
 
         $managementTeam->update($request->all());
 
-        return redirect()->route('management.team.index')->with('success', 'Team member updated successfully.');
+        return redirect()->route('management-teams.index')->with('success', 'Team member updated successfully.');
     }
 
     public function destroy(ManagementTeam $managementTeam)
     {
         $managementTeam->delete();
 
-        return redirect()->route('management.team.index')->with('success', 'Team member deleted successfully.');
+        return redirect()->route('management-teams.index')->with('success', 'Team member deleted successfully.');
     }
 }

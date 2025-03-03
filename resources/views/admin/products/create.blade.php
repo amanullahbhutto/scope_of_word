@@ -17,6 +17,7 @@
     <form action="{{ route('products.store') }}" method="POST" enctype="multipart/form-data">
         @csrf
         <div class="row">
+
             <div class="col-md-6">
                 <div class="form-group">
                     <label for="name">Name</label>
@@ -26,6 +27,17 @@
                     @enderror
                 </div>
             </div>
+    
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="slug">Slug</label>
+                    <input type="text" name="slug" id="slug" class="form-control" placeholder="slug" readonly>	
+                    @error('slug')
+                        <div class="invalid-feedback">{{ $message }}</div>
+                    @enderror
+                </div>
+            </div> 
+
             <div class="col-md-6">
                 <div class="form-group">
                     <label for="description">Description</label>
@@ -103,4 +115,34 @@
         </div>
     </form>
 </div>
+@endsection
+@section('scripts')
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $("#name").on('change', function() {
+            var $input = $(this);
+            $("button[type=submit]").prop('disabled', true);
+
+            $.ajax({
+                url: "{{ route('getSlug') }}", 
+                type: "GET",
+                data: { title: $input.val() },
+                dataType: "json",
+                success: function(response) {
+                    $("button[type=submit]").prop('disabled', false);
+                    if (response.status) {
+                        $("#slug").val(response.slug);
+                    }
+                },
+                error: function(xhr) {
+                    console.error(xhr.responseText);
+                    $("button[type=submit]").prop('disabled', false);
+                }
+            });
+        });
+    });
+</script>
+
+
 @endsection

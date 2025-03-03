@@ -1,5 +1,6 @@
 <?php
-
+use Illuminate\Http\Request;  //Str
+use Illuminate\Support\Str;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\OtpController;
 use Illuminate\Support\Facades\Artisan;
@@ -10,6 +11,7 @@ use App\Http\Controllers\HomeController;  ///ProductController
 use App\Http\Controllers\ProductController; 
 use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\ManagementTeamController;
+use App\Http\Controllers\MediaController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -102,21 +104,21 @@ Route::get('/dashboard', function () {
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 
-Route::middleware('auth')->group(function () {
-    Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
-    Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
-    Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
-});
+// Route::middleware('auth')->group(function () {
+//     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
+//     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
+//     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
+// });
 
-Route::get('/monitoring', [MonitoringController::class, 'index'])->name('monitoring.index');
-Route::get('/monitoring/pending', [MonitoringController::class, 'pending'])->name('monitoring.pending');
-Route::get('/monitoring/accepted', [MonitoringController::class, 'accepted'])->name('monitoring.accepted');
-Route::get('/monitoring/rejected', [MonitoringController::class, 'rejected'])->name('monitoring.rejected');
+// Route::get('/monitoring', [MonitoringController::class, 'index'])->name('monitoring.index');
+// Route::get('/monitoring/pending', [MonitoringController::class, 'pending'])->name('monitoring.pending');
+// Route::get('/monitoring/accepted', [MonitoringController::class, 'accepted'])->name('monitoring.accepted');
+// Route::get('/monitoring/rejected', [MonitoringController::class, 'rejected'])->name('monitoring.rejected');
 
-Route::get('/monitoring/show', [MonitoringController::class, 'rejected'])->name('monitrering.show');
+// Route::get('/monitoring/show', [MonitoringController::class, 'rejected'])->name('monitrering.show');
 
-Route::get('/pending-user-show/{id}', [MonitoringController::class, 'show'])->name('pending.show');
-Route::post('/pending-user-add/{id}', [MonitoringController::class, 'add_user'])->name('pending.add_user');
+// Route::get('/pending-user-show/{id}', [MonitoringController::class, 'show'])->name('pending.show');
+// Route::post('/pending-user-add/{id}', [MonitoringController::class, 'add_user'])->name('pending.add_user');
 
 
 route::get('leader-of-house',[FrontcController::class, 'leader_house'])->name('leader_house');
@@ -141,6 +143,19 @@ Route::group(['prefix' => 'admin','middleware' => ['auth', 'verified', 'role:sup
     // Route::get('/product/create', [ProductController::class, 'create'])->name('product.create'); //brand.edit
     // // Route::post('/product/store',[ProductController::class,'store'])->name('product.store');
 
+    Route::get('/getSlug', function(Request $request) {
+        $slug = '';
+    
+        if ($request->has('title')) {
+            $slug = Str::slug($request->title);
+        }
+    
+        return response()->json([
+            'status' => true,
+            'slug' => $slug
+        ]);
+    })->name('getSlug');
+
     Route::get('/products', [ProductController::class, 'index'])->name('products.index');
     Route::get('/products/create', [ProductController::class, 'create'])->name('products.create');
     Route::post('/products', [ProductController::class, 'store'])->name('products.store');
@@ -159,5 +174,7 @@ Route::get('/categories', [CategoryController::class, 'index'])->name('categorie
 
     // ManaagementTeamControlelr
     Route::resource('management-teams', ManagementTeamController::class);
+
+    Route::resource('media', MediaController::class);
 });
 
