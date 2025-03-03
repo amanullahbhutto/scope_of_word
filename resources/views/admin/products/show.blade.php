@@ -21,6 +21,7 @@
                             <th>Name</th>
                             <th>slug</th>
                             <th>description</th>
+                            <th>Categories</th>
                             <th>Image</th>
                             <th>Price</th>
                             <th>Quantity</th>
@@ -36,6 +37,15 @@
                             <td>{{ $product->name }}</td>
                             <td>{{ $product->slug }}</td>
                             <td>{{ $product->description }}</td>
+
+                            <td>
+                                @if ($product->categories->isNotEmpty())
+                                    {{ $product->categories->pluck('name')->join(', ') }}
+                                @else
+                                    <p>No category</p>
+                                @endif
+                            </td>
+
                             <td>@if (!empty($product->image))
                                 <img src="{{ asset($product->image) }}" alt="Product Image" width="50">
                             @else

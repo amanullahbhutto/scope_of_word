@@ -82,6 +82,7 @@
                     </select>
                 </div>
             </div>
+            
             <div class="col-md-6">
                 <div class="form-group">
                     <label for="qty">Quantity</label>
@@ -117,7 +118,7 @@
 </div>
 @endsection
 @section('scripts')
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+{{--  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>  --}}
 <script>
     $(document).ready(function() {
         $("#name").on('change', function() {

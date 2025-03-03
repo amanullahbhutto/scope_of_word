@@ -21,6 +21,15 @@
                         <div class="col-md-6">
                             <div> <p class="lead mt-3 mt-md-0"> <strong>Slug</strong> {{ $product->slug }}</p></div>
                             <p class="lead mt-3 mt-md-0"> <strong>Description</strong> {{ $product->description }}</p>
+                            <div>
+                                <td> <strong> Category:</strong> 
+                                    @if ($product->categories->isNotEmpty())
+                                        {{ $product->categories->pluck('name')->join(', ') }}
+                                    @else
+                                        <p>No category</p>
+                                    @endif
+                                </td>
+                            </div>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item d-flex justify-content-between align-items-center">
                                     <strong>Price:</strong>

@@ -17,7 +17,7 @@ class ProductController extends Controller
     // Display a listing of the products
     public function index()
     {
-        $products = Product::with('category')->get(); // Eager load category
+        $products = Product::with('categories')->get(); // Eager load category
        
     
         return view('admin.products.show', compact('products'));
@@ -66,18 +66,63 @@ class ProductController extends Controller
     // Display the specified product
     public function show($id)
     {
-        $product = Product::findOrFail($id);
+        $product = Product::with('categories')->findOrFail($id); // Eager load categories for the product
         return view('admin.products.show_user', compact('product'));
     }
 
     // Show the form for editing the specified product
     public function edit($id)
     {
-        $product = Product::findOrFail($id);
-        return view('admin.products.edit', compact('product'));
+        $product = Product::with('categories')->findOrFail($id); // Load categories relation
+        $categories = Category::all(); // Fetch all categories
+    
+        return view('admin.products.edit', compact('product', 'categories'));
     }
 
     // Update the specified product in the database
+    // public function update(Request $request, $id)
+    // {
+
+    //     $request->validate([
+    //         'name' => 'required',
+    //         'description' => 'nullable',
+    //         'image' => 'nullable|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
+    //         'price' => 'required|numeric',
+    //         'qty' => 'nullable|integer',
+    //         'category_id' => 'required|integer|exists:categories,id', // Validate category
+    //     ]);
+    
+    //     // Find the product by ID
+    //     $product = Product::findOrFail($id);
+    
+    //     $data = $request->except('image', 'category_id'); // Exclude image & category_id from request
+    
+    //     if ($request->hasFile('image')) {
+    //         // Delete old image if exists
+    //         if ($product->image && file_exists(public_path($product->image))) {
+    //             unlink(public_path($product->image));
+    //         }
+    
+    //         // Store new image in public/products/
+    //         $image = $request->file('image');
+    //         $imageName = time() . '.' . $image->getClientOriginalExtension();
+    //         $image->move(public_path('products'), $imageName);
+    
+    //         // Add new image path to update data
+    //         $data['image'] = 'products/' . $imageName;
+    //     }
+    
+    //     // Update product data
+    //     $product->update($data);
+    
+    //     // Update category in product_categories table
+    //     DB::table('product_categories')
+    //         ->where('product_id', $product->id)
+    //         ->update(['category_id' => $request->category_id]);
+    
+    //     return redirect()->route('products.index')->with('success', 'Product updated successfully.');
+    // }
+    
     public function update(Request $request, $id)
     {
         $request->validate([
@@ -86,7 +131,8 @@ class ProductController extends Controller
             'image' => 'nullable|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
             'price' => 'required|numeric',
             'qty' => 'nullable|integer',
-            'category_id' => 'required|integer|exists:categories,id', // Validate category
+            'category_id' => 'required|array', // Allow multiple category IDs
+            'category_id.*' => 'integer|exists:categories,id', // Ensure each category ID is valid
         ]);
     
         // Find the product by ID
@@ -112,14 +158,13 @@ class ProductController extends Controller
         // Update product data
         $product->update($data);
     
-        // Update category in product_categories table
-        DB::table('product_categories')
-            ->where('product_id', $product->id)
-            ->update(['category_id' => $request->category_id]);
+        // Sync categories in product_categories table
+        $product->categories()->sync($request->category_id);
     
         return redirect()->route('products.index')->with('success', 'Product updated successfully.');
     }
     
+
     // Remove the specified product from the database
     public function destroy($id)
     {

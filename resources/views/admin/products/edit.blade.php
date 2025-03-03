@@ -37,7 +37,19 @@
                 <label>Description:</label>
                 <textarea name="description" class="form-control">{{ $product->description }}</textarea>
             </div>
- 
+
+
+            <div class="form-group">
+                <label for="category">Category</label>
+                <select name="category_id[]" id="category" class="form-control select2">
+                    @foreach ($categories as $category)
+                        <option value="{{ $category->id }}" 
+                            {{ in_array($category->id, $product->categories->pluck('id')->toArray()) ? 'selected' : '' }}>
+                            {{ $category->name }}
+                        </option>
+                    @endforeach
+                </select>
+            </div>
 
         <div class="form-group">
             <label>Image:</label>
@@ -67,4 +79,35 @@
         <button type="submit" class="btn btn-success">Update</button>
     </form>
 </div>
+@endsection
+
+@section('scripts')
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $("#name").on('change', function() {
+            var $input = $(this);
+            $("button[type=submit]").prop('disabled', true);
+
+            $.ajax({
+                url: "{{ route('getSlug') }}", 
+                type: "GET",
+                data: { title: $input.val() },
+                dataType: "json",
+                success: function(response) {
+                    $("button[type=submit]").prop('disabled', false);
+                    if (response.status) {
+                        $("#slug").val(response.slug);
+                    }
+                },
+                error: function(xhr) {
+                    console.error(xhr.responseText);
+                    $("button[type=submit]").prop('disabled', false);
+                }
+            });
+        });
+    });
+</script>
+
+
 @endsection
