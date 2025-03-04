@@ -25,6 +25,7 @@
     <link rel="stylesheet" href="{{ asset('plugins/daterangepicker/daterangepicker.css') }}">
     <!-- summernote -->
     <link rel="stylesheet" href="{{ asset('plugins/summernote/summernote-bs4.min.css') }}">
+    <link rel="stylesheet" href="{{ url('plugins/summernote/summernote.min.css') }}">
 
     <!-- DataTables -->
     <link rel="stylesheet" href="{{ asset('plugins/datatables-bs4/css/dataTables.bootstrap4.css') }}">
@@ -107,6 +108,26 @@
 <!-- AdminLTE dashboard demo -->
 <script src="{{ asset('dist/js/pages/dashboard.js') }}"></script>
 {{-- <script src="{{ asset('dist/js/pages/ckeditor.js') }}"></script> --}}
+<!-- Summernote -->
+    <script src="{{ url('plugins/summernote/summernote.min.js') }}"></script>
+
+<script>
+    
+    $(document).ready(function() {
+        // Initialize Summernote
+        $(".summernote").summernote({
+            height: 200, // Set the height of the editor
+            placeholder: "Write job description here...",
+            toolbar: [
+                ['style', ['bold', 'italic', 'underline', 'clear']],
+                ['para', ['ul', 'ol', 'paragraph']],
+                ['insert', ['link', 'picture']],
+                ['view', ['fullscreen', 'codeview']]
+            ]
+        });
+    });
+</script>
+
 @yield('scripts')
 <!-- CKEditor CDN -->
 <!-- <script src="https://cdn.ckeditor.com/ckeditor5/35.0.0/classic/ckeditor.js"></script> -->
@@ -141,6 +162,8 @@
         });
     }, 3000);
 </script>
+
+
 
 </body>
 </html>

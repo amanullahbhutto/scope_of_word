@@ -12,6 +12,7 @@ use App\Http\Controllers\ProductController;
 use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\ManagementTeamController;
 use App\Http\Controllers\MediaController;
+use App\Http\Controllers\JobController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -176,5 +177,7 @@ Route::get('/categories', [CategoryController::class, 'index'])->name('categorie
     Route::resource('management-teams', ManagementTeamController::class);
 
     Route::resource('media', MediaController::class);
+
+    Route::resource('jobs', JobController::class);
 });
 
