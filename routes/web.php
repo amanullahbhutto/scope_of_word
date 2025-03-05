@@ -13,6 +13,7 @@ use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\ManagementTeamController;
 use App\Http\Controllers\MediaController;
 use App\Http\Controllers\JobController;
+use App\Http\Controllers\ContactController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -165,7 +166,7 @@ Route::group(['prefix' => 'admin','middleware' => ['auth', 'verified', 'role:sup
     Route::put('/products/{id}', [ProductController::class, 'update'])->name('products.update');
     Route::delete('/products/{id}', [ProductController::class, 'destroy'])->name('products.destroy');
 
-Route::get('/categories', [CategoryController::class, 'index'])->name('categories.index'); // List all categories
+    Route::get('/categories', [CategoryController::class, 'index'])->name('categories.index'); // List all categories
     Route::get('/categories/create', [CategoryController::class, 'create'])->name('categories.create'); // Show create form
     Route::post('/categories', [CategoryController::class, 'store'])->name('categories.store'); // Store category
     Route::get('/categories/{category}', [CategoryController::class, 'show'])->name('categories.show'); // Show single category
@@ -177,7 +178,8 @@ Route::get('/categories', [CategoryController::class, 'index'])->name('categorie
     Route::resource('management-teams', ManagementTeamController::class);
 
     Route::resource('media', MediaController::class);
-
+    
     Route::resource('jobs', JobController::class);
+    Route::resource('contacts', ContactController::class);
 });
 
