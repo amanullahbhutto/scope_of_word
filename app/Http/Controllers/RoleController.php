@@ -22,7 +22,7 @@ class RoleController extends Controller
     {
         $roles = Role::get();
         $permissions = Permission::get();
-        return view('admin.role.index', compact('roles','permissions'));
+        return view('admin.role.index', compact('roles'));
     }
 
     public function create()
@@ -47,12 +47,20 @@ class RoleController extends Controller
         return redirect()->route('roles.index')->with('status','Role Created Successfully');
     }
 
-    public function edit(Role $role)
-    {
-        return view('admin.role.edit',[
-            'role' => $role
-        ]);
-    }
+    // public function edit(Role $role)
+    // {
+    //     return view('admin.role.edit',[
+    //         'role' => $role
+    //     ]);
+    // }
+
+    public function edit($id)
+{
+    $role = Role::with('permissions')->findOrFail($id); // Fetch the role with its permissions
+    $permissions = Permission::all(); // Fetch all available permissions
+
+    return view('admin.role.edit', compact('role', 'permissions')); // Pass both variables to the view
+}
 
     public function update(Request $request, Role $role)
     {
