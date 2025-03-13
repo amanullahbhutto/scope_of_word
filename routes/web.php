@@ -74,21 +74,21 @@ Route::get('/upload-json', function () {
 
 // Route::get('/upload-json', [FrontcController::class, 'getjsonfile'])->name('upload.json');
 
-Route::post('import', [FrontcController::class, 'import'])->name('import.company');
-Route::post('/upload-json', [FrontcController::class, 'uploadJson'])->name('upload.json');
+// Route::post('import', [FrontcController::class, 'import'])->name('import.company');
+// Route::post('/upload-json', [FrontcController::class, 'uploadJson'])->name('upload.json');
 
 
-route::get('/',[FrontcController::class, 'index'])->name('home');
-Route::get('/school-get-data', [FrontcController::class, 'getData'])->name('get.data.school');
-Route::get('district/school',[FrontcController::class, 'district_school'])->name('district.school');
-Route::get('district/{distname}', [FrontcController::class, 'show'])->name('district.show');
-Route::get('school-deails/{id}', [FrontcController::class, 'school_details'])->name('school.show');
-Route::get('request-form/Adopte-school',[FrontcController::class, 'addoped'])->name('school.adopte');
-Route::get('/get-districts', [FrontcController::class, 'getDistricts'])->name('get.districts');
-Route::get('/get-tehsils', [FrontcController::class, 'getTehsils'])->name('get.tehsils');
-Route::post('/addopted/submit', [OtpController::class, 'store'])->name('addopted.submit');
+// route::get('/',[FrontcController::class, 'index'])->name('home');
+// Route::get('/school-get-data', [FrontcController::class, 'getData'])->name('get.data.school');
+// Route::get('district/school',[FrontcController::class, 'district_school'])->name('district.school');
+// Route::get('district/{distname}', [FrontcController::class, 'show'])->name('district.show');
+// Route::get('school-deails/{id}', [FrontcController::class, 'school_details'])->name('school.show');
+// Route::get('request-form/Adopte-school',[FrontcController::class, 'addoped'])->name('school.adopte');
+// Route::get('/get-districts', [FrontcController::class, 'getDistricts'])->name('get.districts');
+// Route::get('/get-tehsils', [FrontcController::class, 'getTehsils'])->name('get.tehsils');
+// Route::post('/addopted/submit', [OtpController::class, 'store'])->name('addopted.submit');
 
-Route::get('/success', [FrontcController::class, 'success'])->name('monitoring.success');
+// Route::get('/success', [FrontcController::class, 'success'])->name('monitoring.success');
 
 
 
@@ -106,11 +106,11 @@ Route::get('/dashboard', function () {
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 
-// Route::middleware('auth')->group(function () {
-//     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
-//     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
-//     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
-// });
+Route::middleware('auth')->group(function () {
+    Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
+    Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
+    Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
+});
 
 // Route::get('/monitoring', [MonitoringController::class, 'index'])->name('monitoring.index');
 // Route::get('/monitoring/pending', [MonitoringController::class, 'pending'])->name('monitoring.pending');
@@ -123,7 +123,7 @@ Route::get('/dashboard', function () {
 // Route::post('/pending-user-add/{id}', [MonitoringController::class, 'add_user'])->name('pending.add_user');
 
 
-route::get('leader-of-house',[FrontcController::class, 'leader_house'])->name('leader_house');
+// route::get('leader-of-house',[FrontcController::class, 'leader_house'])->name('leader_house');
 require __DIR__.'/auth.php';
 
 Route::group(['prefix' => 'admin','middleware' => ['auth', 'verified', 'role:super-admin|admin']], function () {
@@ -138,6 +138,11 @@ Route::group(['prefix' => 'admin','middleware' => ['auth', 'verified', 'role:sup
     Route::get('roles/{roleId}/delete', [App\Http\Controllers\RoleController::class, 'destroy']);
     Route::get('roles/{roleId}/give-permissions', [App\Http\Controllers\RoleController::class, 'addPermissionToRole']);
     Route::put('roles/{roleId}/give-permissions', [App\Http\Controllers\RoleController::class, 'givePermissionToRole']);
+    Route::get('roles/{roleId}/give-permissions', [App\Http\Controllers\RoleController::class, 'addPermissionToRole'])
+    ->name('roles.give-permissions');
+
+    Route::put('roles/{roleId}/give-permissions', [App\Http\Controllers\RoleController::class, 'givePermissionToRole'])
+    ->name('roles.assign-permissions');
 
     Route::resource('users', App\Http\Controllers\UserController::class);
     Route::get('users/{userId}/delete', [App\Http\Controllers\UserController::class, 'destroy']);

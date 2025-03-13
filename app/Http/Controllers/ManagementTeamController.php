@@ -7,6 +7,15 @@ use Illuminate\Http\Request;
 
 class ManagementTeamController extends Controller
 {
+
+    public function __construct()
+{
+    $this->middleware('permission:view management-team', ['only' => ['index']]);
+    $this->middleware('permission:create management-team', ['only' => ['create', 'store']]);
+    $this->middleware('permission:update management-team', ['only' => ['edit', 'update']]);
+    $this->middleware('permission:delete management-team', ['only' => ['destroy']]);
+}
+
     public function index()
     {
         $teamMembers = ManagementTeam::all();

@@ -42,8 +42,9 @@
                 </div>
             </div>
 
-            <div class="text-center mt-4">
+            <div class="text-center mt-4 ">
                 <button type="submit" class="btn btn-success px-4">Save Category</button>
+                <a href="{{ route('categories.index') }}" class="btn btn-secondary mx-2">Go Back</a>
             </div>
         </form>
     </div>

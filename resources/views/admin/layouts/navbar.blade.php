@@ -10,9 +10,11 @@
     </ul>
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
-          <a class="nav-link" href="#">
+
+          <a class="nav-link" href="{{ route('profile.edit') }}">
               <i class="fas fa-user"></i> Profile
           </a>
+
       </li>
       <li class="nav-item">
           <a class="nav-link" href="#" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">

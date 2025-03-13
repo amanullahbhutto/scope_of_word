@@ -14,6 +14,14 @@ use App\Models\Poduct_categories;
 
 class ProductController extends Controller
 {
+
+    public function __construct()
+    {
+        $this->middleware('permission:view product', ['only' => ['index']]);
+        $this->middleware('permission:create product', ['only' => ['create','store']]);
+        $this->middleware('permission:update product', ['only' => ['update','edit']]);
+        $this->middleware('permission:delete product', ['only' => ['destroy']]);
+    }
     // Display a listing of the products
     public function index()
     {
