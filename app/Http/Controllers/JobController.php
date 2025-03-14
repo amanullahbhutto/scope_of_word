@@ -7,6 +7,15 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
 class JobController extends Controller
 {
+
+     public function __construct()
+    {
+        $this->middleware('permission:view job', ['only' => ['index', 'show']]);
+        $this->middleware('permission:create job', ['only' => ['create', 'store']]);
+        $this->middleware('permission:update job', ['only' => ['edit', 'update']]);
+        $this->middleware('permission:delete job', ['only' => ['destroy']]);
+    }
+
     public function index()
     {
         $jobs = Job::all();

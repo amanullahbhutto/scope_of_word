@@ -7,6 +7,14 @@ use Illuminate\Http\Request;
 
 
 class ContactController extends Controller {
+    public function __construct()
+    {
+        $this->middleware('permission:view contact', ['only' => ['index', 'show']]);
+        $this->middleware('permission:create contact', ['only' => ['create', 'store']]);
+        $this->middleware('permission:update contact', ['only' => ['edit', 'update']]);
+        $this->middleware('permission:delete contact', ['only' => ['destroy']]);
+    }
+
     public function index() {
         $contacts = Contacts::latest()->get();
         return view('admin.contacts.index', compact('contacts'));

@@ -51,10 +51,6 @@
                                     <input type="date" name="deadline" class="form-control" value="{{ old('deadline', $job->deadline) }}" required>
                                 </div>
                             </div>
-
-                          
-
-                           
                        </div>
 
                             <div class="text-center">

@@ -43,41 +43,43 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+
+
 Route::get('/dashboard', function () {
     return view('admin.index');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 
-// Route::middleware('auth')->group(function () {
-//     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
-//     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
-//     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
-// });
+Route::middleware('auth')->group(function () {
+    Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
+    Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
+    Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
+});
 
 
 
 
-route::get('leader-of-house',[FrontcController::class, 'leader_house'])->name('leader_house');
+// route::get('leader-of-house',[FrontcController::class, 'leader_house'])->name('leader_house');
 require __DIR__.'/auth.php';
 
 Route::group(['prefix' => 'admin','middleware' => ['auth', 'verified', 'role:super-admin|admin']], function () {
     Route::resource('permissions', App\Http\Controllers\PermissionController::class);
-    Route::resource('regions', App\Http\Controllers\RegionController::class);
-    Route::resource('districts', App\Http\Controllers\DistrictController::class);
-    Route::resource('schools',  App\Http\Controllers\SchoolController::class);
-
+  
     Route::get('permissions/{permissionId}/delete', [App\Http\Controllers\PermissionController::class, 'destroy']);
 
     Route::resource('roles', App\Http\Controllers\RoleController::class);
     Route::get('roles/{roleId}/delete', [App\Http\Controllers\RoleController::class, 'destroy']);
     Route::get('roles/{roleId}/give-permissions', [App\Http\Controllers\RoleController::class, 'addPermissionToRole']);
     Route::put('roles/{roleId}/give-permissions', [App\Http\Controllers\RoleController::class, 'givePermissionToRole']);
+    Route::get('roles/{roleId}/give-permissions', [App\Http\Controllers\RoleController::class, 'addPermissionToRole'])
+    ->name('roles.give-permissions');
+
+    Route::put('roles/{roleId}/give-permissions', [App\Http\Controllers\RoleController::class, 'givePermissionToRole'])
+    ->name('roles.assign-permissions');
 
     Route::resource('users', App\Http\Controllers\UserController::class);
     Route::get('users/{userId}/delete', [App\Http\Controllers\UserController::class, 'destroy']);
 
-    // Route::get('/product/create', [ProductController::class, 'create'])->name('product.create'); //brand.edit
-    // // Route::post('/product/store',[ProductController::class,'store'])->name('product.store');
 
     Route::get('/getSlug', function(Request $request) {
         $slug = '';
