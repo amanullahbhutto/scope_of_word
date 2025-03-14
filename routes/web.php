@@ -25,39 +25,6 @@ use App\Http\Controllers\ContactController;
 |
 */
 
-route::get('/form', function () {
-
-    return view('seic.form');
-})->name('form');
-
-
-
-// route::get('/seics', function () {
-
-//     $cityNames = ['KARACHI','KARACHI EAST','KARACHI SOUTH','HYDERABAD CITY','HYDERABAD','SUKKUR','MALIR','KARACHI CENTRAL','QASIMABAD','LATIFABAD','KARACHI WEST','QUBO SAEED KHAN',
-//     'LARKANA','THUL','JACOBABAD','WARAH','SHIKARPUR','MATIARI','SHAHDAD KOT','GARHI KHAIRO','SOBHO DERO','JAMSHORO','UMER KOT','BADIN'];
-
-//     $cityData = DB::table('company_info')
-//     ->select('city', DB::raw('COUNT(*) as count'))
-//     ->whereIn('city', $cityNames) // Assuming $cityNames is the array from earlier
-//     ->groupBy('city')
-//     ->get();
-
-//     // Retrieve paginated results
-//     $data = DB::table('company_info')->paginate(20);
-//     DB::table('company_info')
-//     ->where('city', 'like', '%Karachi%')
-//     ->update(['province' => 'SINDH']);
-
-//     return view('seic.company',compact('data','cityData'));
-// })->name('seics');
-
-
-Route::get('/it-industry-software-data',[HomeController::class,'company'])->name('sindh.industry');
-
-Route::get('/software-it-industry',[HomeController::class,'company'])->name('sindh.industry');
-
-Route::get('/seics-data',[HomeController::class,'getData'])->name('seics.data');
 
 
 Route::get('/clear-cache', function () {
@@ -68,38 +35,13 @@ Route::get('/clear-cache', function () {
     return response()->json(['message' => 'Route, config, and application cache cleared successfully.']);
 })->name('clear.cache');
 
-Route::get('/upload-json', function () {
-    return view('fileupload');
+
+
+
+
+Route::get('/', function () {
+    return view('welcome');
 });
-
-// Route::get('/upload-json', [FrontcController::class, 'getjsonfile'])->name('upload.json');
-
-Route::post('import', [FrontcController::class, 'import'])->name('import.company');
-Route::post('/upload-json', [FrontcController::class, 'uploadJson'])->name('upload.json');
-
-
-route::get('/',[FrontcController::class, 'index'])->name('home');
-Route::get('/school-get-data', [FrontcController::class, 'getData'])->name('get.data.school');
-Route::get('district/school',[FrontcController::class, 'district_school'])->name('district.school');
-Route::get('district/{distname}', [FrontcController::class, 'show'])->name('district.show');
-Route::get('school-deails/{id}', [FrontcController::class, 'school_details'])->name('school.show');
-Route::get('request-form/Adopte-school',[FrontcController::class, 'addoped'])->name('school.adopte');
-Route::get('/get-districts', [FrontcController::class, 'getDistricts'])->name('get.districts');
-Route::get('/get-tehsils', [FrontcController::class, 'getTehsils'])->name('get.tehsils');
-Route::post('/addopted/submit', [OtpController::class, 'store'])->name('addopted.submit');
-
-Route::get('/success', [FrontcController::class, 'success'])->name('monitoring.success');
-
-
-
-Route::post('/send-otp', [OtpController::class, 'sendOtp'])->name('api.sendOtp');
-Route::post('/verify-otp', [OtpController::class, 'verifyOtp'])->name('api.verifyOtp');
-
-
-
-// Route::get('/', function () {
-//     return view('frontend.home');
-// });
 
 Route::get('/dashboard', function () {
     return view('admin.index');
@@ -112,15 +54,7 @@ Route::get('/dashboard', function () {
 //     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 // });
 
-// Route::get('/monitoring', [MonitoringController::class, 'index'])->name('monitoring.index');
-// Route::get('/monitoring/pending', [MonitoringController::class, 'pending'])->name('monitoring.pending');
-// Route::get('/monitoring/accepted', [MonitoringController::class, 'accepted'])->name('monitoring.accepted');
-// Route::get('/monitoring/rejected', [MonitoringController::class, 'rejected'])->name('monitoring.rejected');
 
-// Route::get('/monitoring/show', [MonitoringController::class, 'rejected'])->name('monitrering.show');
-
-// Route::get('/pending-user-show/{id}', [MonitoringController::class, 'show'])->name('pending.show');
-// Route::post('/pending-user-add/{id}', [MonitoringController::class, 'add_user'])->name('pending.add_user');
 
 
 route::get('leader-of-house',[FrontcController::class, 'leader_house'])->name('leader_house');
