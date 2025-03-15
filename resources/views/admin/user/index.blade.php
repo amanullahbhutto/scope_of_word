@@ -4,7 +4,7 @@
 
 @section('content')
     <div class="container mt-5">
-        <a href="{{ url('roles') }}" class="btn btn-primary mx-1">Roles</a>
+        <a href="{{ route('roles.index') }}" class="btn btn-primary mx-1">Roles</a>
         <a href="{{ route('permissions.index') }}" class="btn btn-info mx-1">Permissions</a>
         <a href="{{ route('users.index') }}" class="btn btn-warning mx-1">Users</a>
     </div>

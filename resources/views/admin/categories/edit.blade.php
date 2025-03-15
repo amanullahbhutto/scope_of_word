@@ -57,10 +57,20 @@
                             </div>
                         </div>
 
-                        <div class="text-center mt-4">
-                            <button type="submit" class="btn btn-success px-4">Update Category</button>
-                            <a href="{{ route('categories.index') }}" class="btn btn-secondary mx-2">Go Back</a>
+                        <div class="d-flex justify-content-center mt-4">
+                            @can('update category')
+                                <button type="submit" class="btn btn-success px-4 shadow-sm">
+                                    <i class="fas fa-save"></i> Update Category
+                                </button>
+                            @endcan
+                        
+                            @can('view category')
+                                <a href="{{ route('categories.index') }}" class="btn btn-secondary ms-3 shadow-sm">
+                                    <i class="fas fa-arrow-left"></i> Go Back
+                                </a>
+                            @endcan
                         </div>
+
                     </form>
                 </div>
             </div>

@@ -31,9 +31,11 @@
                     </div>
                 </div>
                 <div class="card-footer bg-light text-center">
-                    <a href="{{ route('categories.index') }}" class="btn btn-outline-primary">
-                        <i class="fas fa-arrow-left me-2"></i> Back to Categories
-                    </a>
+                    @can('view category')
+                        <a href="{{ route('categories.index') }}" class="btn btn-outline-primary">
+                            <i class="fas fa-arrow-left me-2"></i> Back to Categories
+                        </a>
+                    @endcan
                 </div>
             </div>
         </div>

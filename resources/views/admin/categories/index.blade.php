@@ -3,7 +3,12 @@
 @section('content')
     <div class="container">
         <h2>Categories</h2>
-        <a href="{{ route('categories.create') }}" class="btn btn-primary mb-3">Add Category</a>
+
+        @can('create category')
+            <a href="{{ route('categories.create') }}" class="btn btn-primary mb-3">
+                <i class="fas fa-plus"></i> Add Category
+            </a>
+        @endcan
 
         {{--  @if (session('success'))
             <div class="alert alert-success">{{ session('success') }}</div>
@@ -37,13 +42,21 @@
                                     @endif
                                 </td>
                                 <td>
-                                    <a href="{{ route('categories.show', $category->id) }}" class="btn btn-info btn-sm">View</a>
-                                    <a href="{{ route('categories.edit', $category->id) }}" class="btn btn-warning btn-sm">Edit</a>
-                                    <form action="{{ route('categories.destroy', $category->id) }}" method="POST" style="display:inline;">
-                                        @csrf
-                                        @method('DELETE')
-                                        <button class="btn btn-danger btn-sm" onclick="return confirm('Are you sure?')">Delete</button>
-                                    </form>
+                                        @can('view category')
+                                        <a href="{{ route('categories.show', $category->id) }}" class="btn btn-info btn-sm">View</a>
+                                        @endcan
+                                        
+                                        @can('update category')
+                                            <a href="{{ route('categories.edit', $category->id) }}" class="btn btn-warning btn-sm">Edit</a>
+                                        @endcan
+                                        
+                                        @can('delete category')
+                                            <form action="{{ route('categories.destroy', $category->id) }}" method="POST" style="display:inline;">
+                                                @csrf
+                                                @method('DELETE')
+                                                <button class="btn btn-danger btn-sm" onclick="return confirm('Are you sure?')">Delete</button>
+                                            </form>
+                                        @endcan
                                 </td>
                             </tr>
                             @endforeach

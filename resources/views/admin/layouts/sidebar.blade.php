@@ -46,6 +46,57 @@
                       </a>
                   </li>
 
+                  <li class="nav-item">
+                    <a href="{{ route('users.index') }}" class="nav-link">
+                        <i class="nav-icon fas fa-users"></i>
+                        <p>User Management</p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="{{ route('permissions.index') }}" class="nav-link">
+                        <i class="nav-icon fas fa-user-shield"></i>
+                        <p>Roles & Permissions</p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="" class="nav-link">
+                        <i class="nav-icon fas fa-hand-holding-heart"></i>
+                        <p>Our Responsibilities</p>
+                    </a>
+                </li>
+
+
+                <li class="nav-item">
+                    <a href="{{ route('contacts.index') }}" class="nav-link">
+                        <i class="nav-icon fas fa-envelope"></i>
+                        <p>Contact Us</p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="{{ route('jobs.index') }}" class="nav-link">
+                        <i class="nav-icon fas fa-briefcase"></i> <!-- Icon for Jobs -->
+                        <p>Jobs</p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="" class="nav-link">
+                        <i class="nav-icon fas fa-info-circle"></i>
+                        <p>About Us</p>
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                  <a href="{{ route('media.index') }}" class="nav-link">
+                      <i class="nav-icon fas fa-photo-video"></i>
+                      <p>Media</p>
+                  </a>
+              </li>
+
+
 
                
                   <li class="nav-item has-treeview">
@@ -59,56 +110,7 @@
 
                       <ul class="nav nav-treeview">
 
-                          <li class="nav-item">
-                              <a href="{{ route('users.index') }}" class="nav-link">
-                                  <i class="nav-icon fas fa-users"></i>
-                                  <p>User Management</p>
-                              </a>
-                          </li>
-
-                          <li class="nav-item">
-                              <a href="{{ route('permissions.index') }}" class="nav-link">
-                                  <i class="nav-icon fas fa-user-shield"></i>
-                                  <p>Roles & Permissions</p>
-                              </a>
-                          </li>
-
-                          <li class="nav-item">
-                              <a href="" class="nav-link">
-                                  <i class="nav-icon fas fa-hand-holding-heart"></i>
-                                  <p>Our Responsibilities</p>
-                              </a>
-                          </li>
-
-
-                          <li class="nav-item">
-                              <a href="{{ route('contacts.index') }}" class="nav-link">
-                                  <i class="nav-icon fas fa-envelope"></i>
-                                  <p>Contact Us</p>
-                              </a>
-                          </li>
-
-                          <li class="nav-item">
-                              <a href="{{ route('jobs.index') }}" class="nav-link">
-                                  <i class="nav-icon fas fa-briefcase"></i> <!-- Icon for Jobs -->
-                                  <p>Jobs</p>
-                              </a>
-                          </li>
-
-                          <li class="nav-item">
-                              <a href="" class="nav-link">
-                                  <i class="nav-icon fas fa-info-circle"></i>
-                                  <p>About Us</p>
-                              </a>
-                          </li>
-
-                          <li class="nav-item">
-                            <a href="{{ route('media.index') }}" class="nav-link">
-                                <i class="nav-icon fas fa-photo-video"></i>
-                                <p>Media</p>
-                            </a>
-                        </li>
-
+                         
 
                       </ul>
                   </li>
